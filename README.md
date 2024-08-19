@@ -1,18 +1,11 @@
-## Getting Started
+## SLC Course Selection Project Summary
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+As part of my Summer Science program at Sarah Lawrence College, I had the opportunity to work on various projects under the guidance of Mike Siff and Jim Marshall. One of my projects involved recreating the Sarah Lawrence course selection system in Python using the pandas library. Although functional, the initial version was unorganized and inefficient. During the last semester, I decided to redo this project in Java, focusing on an object-oriented approach to create a more efficient solution for building student schedules at Sarah Lawrence College.
 
-## Folder Structure
+Sarah Lawrence courses follow a unique structure, with a typical fifteen-credit semester divided into three five-credit courses, each with multiple meeting times, including mandatory sessions, group conferences, and labs. The complexity of determining which courses fit into a student's schedule necessitated the development of a course scheduling system.
 
-The workspace contains two folders by default, where:
+I started by extracting course data from the mySLC course catalog and processing it into a text file, which served as the foundation for creating CourseBlock objects in my program. These objects store detailed information about each course and its meeting times, enabling the program to organize and manage the data effectively.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+The program's core functionality includes searching for courses, adding and removing courses from a schedule, and checking for conflicts between courses. The conflictCheck method ensures that a student's schedule is free of conflicts by comparing course meeting times, days, and other relevant factors. While the system works well for the majority of cases, I acknowledge that it may not handle every possible scenario perfectly.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Although the project successfully achieved its goals, I would have liked to develop a graphical user interface (GUI) to enhance the user experience and visually display the constructed schedule. Nevertheless, this project allowed me to apply the concepts learned in my Data Structures and Algorithms course, resulting in a more efficient and organized course scheduling system.

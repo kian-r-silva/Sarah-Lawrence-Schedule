@@ -1,0 +1,842 @@
+courseTitle|courseCode|subterm|creditHours|instructor|courseDays|timeSlot|buildingCode|room|comments
+Making the World Go Round: Children in Machinery of Empire|ANTH 2072 L    1|Fall|5|Mary Porter|F|9:30 AM - 10:55 AM|ANDH|104|Group conference, meets weekly
+Making the World Go Round: Children in Machinery of Empire|ANTH 2072 L    1|Fall|5|Mary Porter|W|11:05 AM - 12:30 PM|SC|103|Open
+Making the World Go Round: Children in Machinery of Empire|ANTH 2072 L    1|Fall|5|Mary Porter|W|3:35 PM - 5:00 PM|ANDH|101|Group conference, meets weekly
+Making the World Go Round: Children in Machinery of Empire|ANTH 2072 L    1|Fall|5|Mary Porter|R|2:00 PM - 3:25 PM|ANDH|104|Group conference, meets weekly
+Indigenous Ecologies/Environmental Justice|ANTH 3116 R    1|Spring|5|Deanna Barenboim|T  F|11:05 AM - 12:30 PM|TITS|LR|Open
+Faking Families: How We Make Kinship|ANTH 3147 R    1|Year|10|Mary Porter|T  F|11:05 AM - 12:30 PM|ANDH|104|Open
+Culture and Mental Health|ANTH 3151 R    1|Fall|5|Deanna Barenboim|T  F|11:05 AM - 12:30 PM|TITS|LR|Open
+Black England: From Tudors to Two-Tone|ANTH 3210 R    1|Spring|5|Mary Porter|M  R|2:00 PM - 3:25 PM|ANDH|103|Sophomores and above
+Immigration and Identity|ANTH 3237 R    1|Spring|5|Deanna Barenboim|W|11:05 AM - 1:00 PM|TITS|LR|Intermediate
+Anthropology and Images|ANTH 3317 R    1|Fall|5|Robert Desjarlais|T  F|11:05 AM - 12:30 PM|HEIM|208|Open
+Ethnographic Writing|ANTH 3406 R    1|Fall|5|Robert Desjarlais|W|11:05 AM - 1:00 PM|ANDH|104|Sophomores and above
+Migration and Climate Crisis|ANTH 3606 R    1|Fall|5|Deanna Barenboim|W|11:05 AM - 1:00 PM|TITS|LR|Intermediate
+Romanesque and Gothic: Castle &amp; Cathedral at the Birth of Europe|ARTH 2022 L    1|Spring|5|Jerrilynn Dodds|M  R|2:00 PM - 3:25 PM|HEIM|202|Open
+Romanesque and Gothic: Castle &amp; Cathedral at the Birth of Europe|ARTH 2022 L    1|Spring|5|Jerrilynn Dodds|T|3:35 PM - 4:30 PM|HEIM|111|Group conference, meets weekly
+Romanesque and Gothic: Castle &amp; Cathedral at the Birth of Europe|ARTH 2022 L    1|Spring|5|Jerrilynn Dodds|T|10:00 AM - 10:55 AM|HEIM|210|Group conference, meets weekly
+The Paths of the World: Italian Renaissance Art &amp; Beg Globalizatn|ARTH 2027 L    1|Fall|5|Alessandra Di Croce|M W|3:35 PM - 5:00 PM|HEIM|202|Open
+The Paths of the World: Italian Renaissance Art &amp; Beg Globalizatn|ARTH 2027 L    1|Fall|5|Alessandra Di Croce|M|11:05 AM - 12:00 PM|SLON|2|Group conference
+The Paths of the World: Italian Renaissance Art &amp; Beg Globalizatn|ARTH 2027 L    1|Fall|5|Alessandra Di Croce|W|11:05 AM - 12:00 PM|HEIM|211|Group conference
+Theatrum Mundi:Baroque Art and the Wonders of the World|ARTH 2028 L    1|Spring|5|Alessandra Di Croce|M|11:05 AM - 12:00 PM|SLON|2|Group conference
+Theatrum Mundi:Baroque Art and the Wonders of the World|ARTH 2028 L    1|Spring|5|Alessandra Di Croce|W|11:05 AM - 12:00 PM|HEIM|210|Group conference
+Theatrum Mundi:Baroque Art and the Wonders of the World|ARTH 2028 L    1|Spring|5|Alessandra Di Croce|M W|3:35 PM - 5:00 PM|HEIM|202|Open
+Histories of Queer and Trans Art|ARTH 2053 L    1|Fall|5|Cat Dawson|T|10:00 AM - 10:55 AM|HEIM|208|Group conference
+Histories of Queer and Trans Art|ARTH 2053 L    1|Fall|5|Cat Dawson|T R|3:35 PM - 5:00 PM|PAC|3|Open
+Histories of Queer and Trans Art|ARTH 2053 L    1|Fall|5|Cat Dawson|R|12:45 PM - 1:45 PM|HEIM|210|Group conference
+Monuments and Memory|ARTH 2056 L    1|Spring|5|Cat Dawson|T R|3:35 PM - 5:00 PM|PAC|3|Open
+Monuments and Memory|ARTH 2056 L    1|Spring|5|Cat Dawson|T|11:00 AM - 12:00 PM|HEIM|208|Group conference
+Monuments and Memory|ARTH 2056 L    1|Spring|5|Cat Dawson|R|12:45 PM - 1:45 PM|HEIM|210|Group conference
+Archaeology and the Bible|ARTH 3024 R    1|Fall|5|David Castriota|M  R|11:05 AM - 12:30 PM|HEIM|208|Open
+Art and History|ARTH 3040 R    1|Year|10|Jerrilynn Dodds|M  R|11:05 AM - 12:30 PM|HEIM|210|Open
+Art &amp; Architecture of Provinces &amp; Frontiers of Roman Empire|ARTH 3050 R    1|Spring|5|Isabel Fowlkes Childs|T|7:00 PM - 9:30 PM|HEIM|208|Open
+Histories of Art &amp; Climate Justice|ARTH 3131 R    1|Spring|5|Sarah Hamill|T R|9:30 AM - 10:55 AM|HEIM|208|Open
+Paris: A History through Art, Architecture and Urban Planning|ARTH 3244 R    1|Fall|5|Jerrilynn Dodds|M  R|2:00 PM - 3:25 PM|HEIM|210|Sophomores and above
+History of the Museum, Institutnl Critique, Practices Decolonization|ARTH 3517 R    1|Fall|5|Sarah Hamill|M|3:35 PM - 6:30 PM|HEIM|210|Intermediate
+The Age of Arthur|ARTH 3863 R    1|Fall|5|David Castriota|M W|3:35 PM - 5:00 PM|HEIM|208|Open
+Public Humanities in Practice: The Hudson River Museum|ARTH 4206 A    1|Spring|2|Karintha Lowe|W|2:00 PM - 4:00 PM|SWIN|200|Advanced
+FYS Project|ARTS 1000 F    1|Fall|0|Angela Ferraiolo|W|4:00 PM - 6:00 PM|LIBR|PILLW|First Year Studies
+FYS Project|ARTS 1000 F    1|Fall|0|John O'Connor| |-| | | 
+Visual Arts Fundamentals: Materials and Play|ARTS 3000 R    1|Fall|1|John O'Connor|T|5:00 PM - 6:00 PM|HEIM|300|Open
+Visual Arts Fundamentals: Materials and Play|ARTS 3000 R    1|Fall|1|John O'Connor|T|5:00 PM - 6:00 PM|HEIM|211|Open
+The Face is a Clock: Drawing Portraits|ARTS 3019 R    1|Fall|5|John O'Connor|T R|11:05 AM - 1:30 PM|HEIM|300|Open
+The Face is a Clock: Drawing Portraits|ARTS 3019 R    1|Fall|5|John O'Connor|T|-|HEIM|211|Open
+Figure Drawing|ARTS 3020 R    1|Fall|2|Vera Iliatova|R|12:00 PM - 2:00 PM|HEIM|203|Open
+Drawing the Body in 21st Century|ARTS 3049 R    1|Spring|5|Marion Wilson|M W|11:05 AM - 1:30 PM|HEIM|300|Intermediate
+1001 Drawings|ARTS 3057 R    1|Spring|5|John O'Connor|T R|11:05 AM - 1:30 PM|HEIM|300|Open
+Intermediate Painting|ARTS 3058 R    1|Fall|5|Yevgeniya Baras|W|9:00 AM - 12:00 PM|HEIM|203|Intermediate
+Intermediate Painting|ARTS 3058 R    1|Fall|5|Yevgeniya Baras|R|9:00 AM - 11:00 AM|HEIM|203| 
+Introduction to Painting|ARTS 3060 R    1|Fall|5|Claudia Bitran|W|10:00 AM - 12:00 PM|HEIM|206| 
+Introduction to Painting|ARTS 3060 R    1|Fall|5|Claudia Bitran|T|10:00 AM - 1:00 PM|HEIM|206|Open
+Introduction to Painting|ARTS 3060 R    2|Spring|5|Claudia Bitran|T|10:00 AM - 1:00 PM|HEIM|206|Open
+Introduction to Painting|ARTS 3060 R    2|Spring|5|Claudia Bitran|W|10:00 AM - 12:00 PM|HEIM|206| 
+From Collage to Painting|ARTS 3071 R    1|Spring|2|Yevgeniya Baras|W|12:00 PM - 2:00 PM|HEIM|203|Open
+Intermediate Painting|ARTS 3073 R    1|Spring|5|Yevgeniya Baras|W|9:00 AM - 12:00 PM|HEIM|203|Intermediate
+Intermediate Painting|ARTS 3073 R    1|Spring|5|Yevgeniya Baras|R|9:00 AM - 11:00 AM|HEIM|203|Intermediate
+Painting Pop|ARTS 3079 R    1|Fall|2|Claudia Bitran|T|3:00 PM - 5:00 PM|HEIM|206|Open
+Art for Good|ARTS 3102 R    1|Spring|2|Joel Sternfeld|T|11:05 AM - 1:00 PM|HEIM|106|Open
+Black and White Darkroom: An Immersion|ARTS 3103 R    1|Fall|5|Sophie Barbasch|W|1:00 PM - 4:00 PM|HEIM|106| 
+Black and White Darkroom: An Immersion|ARTS 3103 R    1|Fall|5|Sophie Barbasch|M|3:00 PM - 5:00 PM|HEIM|106|Open
+Reality TV: Ritual and Catharsis|ARTS 3109 R    1|Spring|2|Sophie Barbasch|M|6:00 PM - 8:00 PM|HEIM|106|Open
+The New Narrative Photography|ARTS 3111 R    1|Year|10|Joel Sternfeld|M|11:05 AM - 2:00 PM|HEIM|106|Open
+The New Narrative Photography|ARTS 3111 R    1|Year|10|Joel Sternfeld|R|12:00 PM - 2:00 PM|HEIM|106| 
+Contemporary Art Related Photography Through Its Exemplars|ARTS 3117 R    1|Year|10|Joel Sternfeld|T|3:00 PM - 6:00 PM|HEIM|106|Open
+Contemporary Art Related Photography Through Its Exemplars|ARTS 3117 R    1|Year|10|Joel Sternfeld|R|4:00 PM - 6:00 PM|HEIM|106| 
+Relationship Stories|ARTS 3154 R    1|Spring|5|Sophie Barbasch|M|3:00 PM - 5:00 PM|HEIM|106|Intermediate
+Relationship Stories|ARTS 3154 R    1|Spring|5|Sophie Barbasch|W|1:00 PM - 4:00 PM|HEIM|106| 
+Zines and Artists' Publications|ARTS 3205 R    1|Spring|2|Katherine Garth|M|2:00 PM - 4:00 PM|HEIM|109|Open
+Relief Printmaking|ARTS 3207 R    1|Spring|5|Vera Iliatova|T|10:30 AM - 1:30 PM|HEIM|109|Open
+Relief Printmaking|ARTS 3207 R    1|Spring|5|Vera Iliatova|R|10:00 AM - 12:00 PM|HEIM|109| 
+Printmaking: Intaglio (Etching)|ARTS 3208 R    1|Fall|5|Katherine Garth|M W|11:05 AM - 1:30 PM|HEIM|110|Open
+The Painterly Print|ARTS 3212 R    1|Fall|5|Vera Iliatova|R|10:00 AM - 12:00 PM|HEIM|109| 
+The Painterly Print|ARTS 3212 R    1|Fall|5|Vera Iliatova|T|10:30 AM - 1:30 PM|HEIM|109|Open
+Advanced Printmaking Workshop|ARTS 3275 R    1|Spring|5|Katherine Garth|M W|11:05 AM - 1:30 PM|HEIM|110|Intermediate/Advanced
+What Remains: Presenting Absence|ARTS 3301 R    1|Spring|2|Jean Shin|M|3:35 PM - 5:30 PM|HEIM|212|Open
+Urban Voids as Artifact:The Commons and Collectivity|ARTS 3304 R    1|Spring|5|Nick Roseboro|F|11:05 AM - 1:30 PM|HEIM|210|Open
+Urban Voids as Artifact:The Commons and Collectivity|ARTS 3304 R    1|Spring|5|Nick Roseboro|F|11:05 AM - 1:30 PM|HEIM|209A|Open
+Urban Voids as Artifact:The Commons and Collectivity|ARTS 3304 R    1|Spring|5|Nick Roseboro|T  F|11:05 AM - 1:30 PM|HEIM|213|Open
+Free-Standing: Intro to Sculptural Forms|ARTS 3305 R    1|Fall|5|Katie Bell|M  R|1:00 PM - 3:25 PM|HEIM|118|Open
+Activating Art in Public Place|ARTS 3315 R    1|Spring|5|Jean Shin|T|3:35 PM - 6:00 PM|HEIM|119| 
+Activating Art in Public Place|ARTS 3315 R    1|Spring|5|Jean Shin|T|11:05 AM - 1:30 PM|HEIM|119| 
+Experiments in Sculptural Drawing|ARTS 3316 R    1|Spring|2|Katie Bell|R|10:00 AM - 12:00 PM|HEIM|118|Open
+Assemblage: The Found Palette|ARTS 3319 R    1|Spring|5|Katie Bell|M  R|1:00 PM - 3:25 PM|HEIM|118|Open
+Creative Reuse|ARTS 3341 R    1|Fall|5|Jean Shin|T R|10:05 AM - 12:30 PM|HEIM|119|Open
+Creative Reuse|ARTS 3341 R    1|Fall|5|Jean Shin|T R|10:00 AM - 11:00 AM|HEIM|135| 
+New Genres: Drawing Machines|ARTS 3343 R    1|Spring|5|Angela Ferraiolo|M W|1:00 PM - 3:25 PM|HEIM|107|Open
+New Genres: Drawing Machines|ARTS 3343 R    1|Spring|5|Angela Ferraiolo|M W|1:00 PM - 2:00 PM|HEIM|211| 
+New Genres: Abstract Video|ARTS 3350 R    1|Spring|5|Angela Ferraiolo|M W|10:00 AM - 12:30 PM|HEIM|107|Open
+New Genres: Abstract Video|ARTS 3350 R    1|Spring|5|Angela Ferraiolo|M W|10:00 AM - 11:00 AM|HEIM|111| 
+New Genres: Diary Forms|ARTS 3351 R    1|Fall|5|Angela Ferraiolo|M W|10:00 AM - 12:30 PM|HEIM|107|Open
+New Genres: Diary Forms|ARTS 3351 R    1|Fall|5|Angela Ferraiolo|M W|10:00 AM - 11:00 AM|HEIM|111| 
+New Genres: Graphic Novel|ARTS 3352 R    1|Spring|2|Angela Ferraiolo|W|4:00 PM - 6:00 PM|HEIM|107|Open
+The Pendulum of Labor and Leisure|ARTS 3367 R    1|Fall|5|Nick Roseboro|T  F|11:05 AM - 1:30 PM|HEIM|213|Open
+Art from Code:  New Genres|ARTS 3392 R    1|Fall|5|Angela Ferraiolo|M W|1:00 PM - 3:25 PM|HEIM|107|Open
+Art from Code:  New Genres|ARTS 3392 R    1|Fall|5|Angela Ferraiolo|M W|1:00 PM - 2:00 PM|HEIM|210| 
+Performance Art|ARTS 3424 R    1|Spring|5|Clifford Owens|M  R|4:35 PM - 7:00 PM|HEIM|112|Open
+Performance Art:Tactics|ARTS 3428 R    1|Fall|5|Dawn Kasper|M W|3:35 PM - 5:30 PM|HEIM|112|Open
+Push and Pull: SubD Modeling in Rhino|ARTS 3470 R    1|Spring|2|Momoyo Torimitsu|T|3:35 PM - 5:35 PM|HEIM|209|Open
+Push and Pull: SubD Modeling in Rhino|ARTS 3470 R    1|Spring|2|Momoyo Torimitsu|T|3:35 PM - 5:35 PM|HEIM|209A| 
+Introduction to Rhino and Digital Fabrication|ARTS 3476 R    1|Fall|5|Momoyo Torimitsu|M  R|11:05 AM - 1:30 PM|HEIM|209A|Open
+Introduction to Rhino and 3D Fabrication|ARTS 3476 R    2|Spring|5|Momoyo Torimitsu|T R|11:05 AM - 1:30 PM|HEIM|209A|Open
+Introduction to Rhino and 3D Fabrication|ARTS 3476 R    2|Spring|5|Momoyo Torimitsu|T R|11:05 AM - 1:30 PM|HEIM|209| 
+Senior Studio|ARTS 4112 R    1|Year|10|John O'Connor|W|10:00 AM - 3:25 PM|HEIM|305|Advanced
+East Meets West: China &amp; the World in Medieval Times|ASIA 2012 L    1|Spring|5|Ellen Neskar|M|3:35 PM - 5:30 PM|SC|103|Open
+East Meets West: China &amp; the World in Medieval Times|ASIA 2012 L    1|Spring|5|Ellen Neskar|W|11:05 AM - 12:00 PM|MORL|CL|Group conference, meets weekly
+East Meets West: China &amp; the World in Medieval Times|ASIA 2012 L    1|Spring|5|Ellen Neskar|W|2:00 PM - 2:55 PM|TWEED|12|Group conference, meets weekly
+East Meets West: China &amp; the World in Medieval Times|ASIA 2012 L    1|Spring|5|Ellen Neskar|W|3:35 PM - 4:30 PM|TWEED|12|Group conference, meets weekly
+Gender and History in China:Beyond Eunuchs &amp; Concubines|ASIA 3166 R    1|Year|10|Kevin Landdeck|W|3:35 PM - 6:00 PM|TWEED|LR|Sophomores and above
+Virtue and the Good Life: Ethics in Classical Chinese Philosophy|ASIA 3351 R    1|Spring|5|Ellen Neskar|T|3:35 PM - 6:30 PM|DL|04|Open
+FYS: The Brain According to Oliver Sacks|BIOL 1027 F    1|Year|10|Cecilia Toro|T  F|11:05 AM - 12:30 PM|SHEFF|02|First Year Studies
+FYS: The Brain According to Oliver Sacks|BIOL 1027 F    1|Year|10|Cecilia Toro|W|7:00 PM - 9:00 PM|TITS|LH|Group collaborative; fall only
+General Biology: Genes, Cells, and Evolution|BIOL 2020 L    1|Fall|5|Drew Cressman|M W|9:00 AM - 10:55 AM|SC|103|Open
+General Biology: Genes, Cells, and Evolution|BIOL 2020 L    1|Fall|5|Drew Cressman|W|2:00 PM - 5:00 PM|SC|205|Lab, section 1
+General Biology: Genes, Cells, and Evolution|BIOL 2020 L    1|Fall|5|Drew Cressman|R|2:00 PM - 5:00 PM|SC|205|Lab, section 2
+General Biology: Genes, Cells, and Evolution|BIOL 2020 L    1|Fall|5|Drew Cressman|F|11:05 AM - 12:00 PM|SC|101|Group conference
+General Biology: Genes, Cells, and Evolution|BIOL 2020 L    1|Fall|5|Drew Cressman|F|10:00 AM - 10:55 AM|SC|101|Group conference
+Evolutionary Biology|BIOL 2030 L    1|Spring|5|Michelle Hersh|M|2:00 PM - 3:25 PM|SC|103|Open
+Evolutionary Biology|BIOL 2030 L    1|Spring|5|Michelle Hersh|W|11:05 AM - 12:30 PM|SC|103|Group conference, meets weekly
+Evolutionary Biology|BIOL 2030 L    1|Spring|5|Michelle Hersh|R|2:00 PM - 3:25 PM|SC|201|Group conference, meets weekly
+Evolutionary Biology|BIOL 2030 L    1|Spring|5|Michelle Hersh|F|2:00 PM - 3:25 PM|SC|201|Group conference, meets weekly
+Drugs and the Brain|BIOL 2065 L    1|Spring|5|Cecilia Toro|W F|2:00 PM - 3:25 PM|SC|103|Open
+Drugs and the Brain|BIOL 2065 L    1|Spring|5|Cecilia Toro|R|10:00 AM - 10:55 AM|SHEFF|22|Group conference
+Drugs and the Brain|BIOL 2065 L    1|Spring|5|Cecilia Toro|R|11:05 AM - 12:00 PM|SHEFF|22|Group conference
+Anatomy and Physiology|BIOL 3012 R    1|Spring|5|Beth Ditkoff|T|11:00 AM - 1:00 PM|SC|206|Lab
+Anatomy and Physiology|BIOL 3012 R    1|Spring|5|Beth Ditkoff|M W|9:30 AM - 10:55 AM|SC|101|Open
+Ecology|BIOL 3014 R    1|Fall|5|Michelle Hersh|T  F|11:05 AM - 12:30 PM|SC|201|Open
+Ecology|BIOL 3014 R    1|Fall|5|Michelle Hersh|W|9:30 AM - 12:30 PM|SC|205|Lab
+Viruses and Pandemics|BIOL 3073 R    1|Spring|5|Drew Cressman|M W|9:00 AM - 10:55 AM|SC|201|Open
+Hormones, Food, and Sex|BIOL 3202 R    1|Fall|5|Cecilia Toro|W F|2:00 PM - 3:25 PM|SC|201|Open
+Wild Animals and Conservation|BIOL 3250 R    1|Spring|5|Liv Baker|T R|3:30 PM - 5:00 PM|BATES|04|Open
+Microbiology|BIOL 3253 R    1|Spring|5|Michelle Hersh|T  F|11:05 AM - 12:30 PM|SC|201|Intermediate
+Microbiology|BIOL 3253 R    1|Spring|5|Michelle Hersh|W|1:30 PM - 4:30 PM|SC|205|Lab
+Animal Behavior|BIOL 3302 R    1|Fall|5|Liv Baker|T R|3:30 PM - 5:00 PM|BATES|015|Open
+Giving, Taking, and Cheating: The Ecology of Symbiosis|BIOL 3311 R    1|Fall|5|Michelle Hersh|M  R|2:00 PM - 3:25 PM|SC|201|Open
+Genetics|BIOL 3617 R    1|Fall|5|Drew Cressman|M|2:00 PM - 5:00 PM|SC|206|Lab
+Genetics|BIOL 3617 R    1|Fall|5|Drew Cressman|T R|9:00 AM - 10:55 AM|SC|201|Sophomores and above
+Cell Biology|BIOL 3657 R    1|Spring|5|Drew Cressman|R|2:00 PM - 5:00 PM|SC|206|Lab
+Cell Biology|BIOL 3657 R    1|Spring|5|Drew Cressman|T R|9:00 AM - 10:55 AM|SC|201|Intermediate
+FYS: The Extraordinary Chemistry of Everyday Life|CHEM 1021 F    1|Year|10|Mali Yin|T R|9:30 AM - 10:55 AM|SC|101|First Year Studies
+General Chemistry I|CHEM 2010 L    1|Fall|5|Colin Abernethy|M  R|11:05 AM - 12:30 PM|SC|103|Open
+General Chemistry I|CHEM 2010 L    1|Fall|5|Colin Abernethy|MT|3:35 PM - 6:35 PM|SC|305|Lab
+General Chemistry I|CHEM 2010 L    1|Fall|5|Colin Abernethy|T|10:00 AM - 10:55 AM|SHEFF|01|Group conference
+General Chemistry I|CHEM 2010 L    1|Fall|5|Colin Abernethy|W|10:00 AM - 10:55 AM|SHEFF|01|Group conference
+General Chemistry II|CHEM 2011 L    1|Spring|5|Michael Malin|T|10:00 AM - 10:55 AM|SHEFF|01|Group conference
+General Chemistry II|CHEM 2011 L    1|Spring|5|Michael Malin|W|10:00 AM - 10:55 AM|SHEFF|01|Group conference
+General Chemistry II|CHEM 2011 L    1|Spring|5|Michael Malin|M  R|11:05 AM - 12:30 PM|SC|103|Intermediate
+General Chemistry II|CHEM 2011 L    1|Spring|5|Michael Malin|MT|3:35 PM - 6:35 PM|SC|305|Lab
+The Chemistry of Art Materials|CHEM 3132 R    1|Fall|5|Michael Malin|M  R|7:00 PM - 8:25 PM|SC|101|Open
+Molecules: Bonding, Structure and Reactivity|CHEM 3521 R    1|Fall|5|Colin Abernethy|W|3:35 PM - 6:00 PM|SC|305|Lab
+Molecules: Bonding, Structure and Reactivity|CHEM 3521 R    1|Fall|5|Colin Abernethy|M  R|2:00 PM - 3:25 PM|SC|101|Intermediate
+Organic Chemistry I|CHEM 3650 R    1|Fall|5|Mali Yin|W|3:35 PM - 7:00 PM|SC|304|Lab
+Organic Chemistry I|CHEM 3650 R    1|Fall|5|Mali Yin|W F|2:00 PM - 3:25 PM|SC|101|Open
+Organic Chemistry II|CHEM 3651 R    1|Spring|5|Mali Yin|W|3:35 PM - 7:00 PM|SC|304|Lab
+Organic Chemistry II|CHEM 3651 R    1|Spring|5|Mali Yin|W F|2:00 PM - 3:25 PM|SC|101|Intermediate
+An Introduction to Computer Science: The Way of the Program|COMP 2012 L    1|Fall|5|James Marshall|T R|3:35 PM - 5:00 PM|SC|103|Open
+An Introduction to Computer Science: The Way of the Program|COMP 2012 L    1|Fall|5|James Marshall|F|10:00 AM - 10:55 AM|SC|301|Group conference
+An Introduction to Computer Science: The Way of the Program|COMP 2012 L    1|Fall|5|James Marshall|F|11:05 AM - 12:00 PM|SC|301|Group conference
+An Introduction to Computer Science: The Way of the Program|COMP 2012 L    1|Fall|5|James Marshall|W|2:00 PM - 3:25 PM|SC|104|Lab
+An Introduction to Computer Science: The Way of the Program|COMP 2012 L    1|Fall|5|James Marshall|W|9:30 AM - 10:55 AM|SC|104|Lab
+Digital Disruptions|COMP 3122 R    1|Fall|5|Michael Siff|M W|9:30 AM - 10:55 AM|SC|101|Open
+Artificial Intelligence and Society|COMP 3213 R    1|Spring|5|James Marshall|T  F|11:05 AM - 12:30 PM|SC|101|Open
+Intermediate Programming in Python|COMP 3557 R    1|Fall|5|James Marshall|T R|9:30 AM - 10:55 AM|SC|104|Intermediate
+Data Structures and Algorithms|COMP 3865 R    1|Spring|5|James Marshall|W|3:35 PM - 5:00 PM|SC|104|Lab
+Data Structures and Algorithms|COMP 3865 R    1|Spring|5|James Marshall|T R|3:35 PM - 5:00 PM|SC|104|Intermediate
+Random and Prime|COMP 4111 R    1|Spring|5|Michael Siff|M W|9:30 AM - 10:55 AM|SC|301|Advanced
+FYS in Dance|DNCE 1028 F    1|Year|10|John Jasperse|W|4:00 PM - 6:00 PM|MACC|DS|First Year Studies
+Dance Study (1-credit)|DNCE 4400 P    1|Fall|1|John Jasperse| |-| | |Reg for Comp through Dance Dep
+Dance Study (1-credit)|DNCE 4400 P    1|Spring|1|John Jasperse| |-| | |Reg for Component w/Dance Dept
+Dance Study (3-credit)|DNCE 4400 P    3|Fall|3|John Jasperse| |-| | |Reg for Comp through Dance Dep
+Dance Study (3-credit)|DNCE 4400 P    3|Spring|3|John Jasperse| |-| | |Reg for Component w/Dance Dept
+Dance Program - Two/Thirds|DNCE 4498 P    1|Year|10|John Jasperse| |-| | |Reg for Comp through Dance Dep
+Dance Third|DNCE 4499 P    1|Year|10|John Jasperse| |-| | |Reg for Comp through Dance Dep
+Movement Studio Practice I|DNCE 5502 U    1|Fall|0|Peggy Gould|M W F|11:05 AM - 12:45 PM|MACC|DS|Component
+Movement Studio Practice I|DNCE 5502 U    2|Spring|0|Catherine Leasca|M W F|11:05 AM - 12:45 PM|MACC|DS|Component
+Movement Studio Practice 2|DNCE 5503 U    1|Fall|0|Jessie Young|M W F|9:00 AM - 10:45 AM|MACC|DS|Component
+Movement Studio Practice 2|DNCE 5503 U    1|Fall|0|Jodi Melnick| |-| | | 
+Movement Studio Practice 2|DNCE 5503 U    2|Spring|0|Wendell Gray| |-| | | 
+Movement Studio Practice 2|DNCE 5503 U    2|Spring|0|Jennifer Nugent|M W F|9:00 AM - 10:45 AM|MACC|DS|Component
+Movement Studio Practice 3|DNCE 5505 U    1|Fall|0|Jodi Melnick|M W F|9:00 AM - 10:45 AM|PAC|BESSI|Component
+Movement Studio Practice 3|DNCE 5505 U    1|Fall|0|Wendell Gray| |-| | | 
+Movement Studio Practice 3|DNCE 5505 U    2|Spring|0|Jessie Young| |-| | | 
+Movement Studio Practice 3|DNCE 5505 U    2|Spring|0|Jennifer Nugent|M W F|9:00 AM - 10:45 AM|PAC|BESSI|Component
+Dance Meeting|DNCE 5506 U    1|Year|0|John Jasperse|T|2:00 PM - 3:25 PM|PAC|BESSI|Component, meets monthly
+Dance Tech/Production|DNCE 5507 U    1|Year|0|John Jasperse| |-| | |Requirement for dance programs
+The Alexander Technique|DNCE 5509 U    1|Fall|0|Peggy Gould|M|1:45 PM - 3:25 PM|TITS|DNST|Component
+Ballet 1|DNCE 5510 U    1|Fall|0|Megan Williams|T R|11:05 AM - 12:45 PM|MACC|DS|Component
+Ballet 1|DNCE 5510 U    2|Spring|0|Susan Scranton|T R|11:05 AM - 12:45 PM|MACC|DS|Component
+Ballet 2|DNCE 5512 U    1|Fall|0|Megan Williams|T R|9:00 AM - 10:45 AM|MACC|DS|Component
+Ballet 2|DNCE 5512 U    2|Spring|0|Susan Scranton|T R|9:00 AM - 10:45 AM|MACC|DS|Component
+Dance Composition|DNCE 5517 U    1|Spring|0|John Jasperse|R|9:00 AM - 10:45 AM|PAC|BESSI|Component
+Dance Composition|DNCE 5517 U    1|Fall|0|Juliana May|F|1:45 PM - 3:25 PM|PAC|BESSI|Component
+Dance Teaching Methods|DNCE 5522 U    1|Spring|0|Jennifer Nugent|F|1:45 PM - 3:25 PM|PAC|BESSI|Component
+Dancing in Progress: Perspectives on Teaching and Learning|DNCE 5523 U    1|Fall|0|Peggy Gould|F|1:45 PM - 3:25 PM|PAC|BESSI|Component
+Live Time-Based Art|DNCE 5524 U    1|Fall|0|John Jasperse|T|5:30 PM - 7:30 PM|PAC|BESSI|Component
+Live Time-Based Art|DNCE 5524 U    1|Fall|0|Juliana May| |-| | | 
+Live Time-Based Art|DNCE 5524 U    2|Spring|0|John Jasperse| |-| | | 
+Live Time-Based Art|DNCE 5524 U    2|Spring|0|Elizabeth Gill|T|5:30 PM - 7:30 PM|PAC|BESSI|Component
+Costume Design for Dance|DNCE 5527 U    1|Year|0|Elizabeth Prince|R|3:35 PM - 5:30 PM|PAC|CS|Component
+Improvisation|DNCE 5531 U    1|Fall|0|John Jasperse|R|9:00 AM - 10:45 AM|PAC|BESSI|Component
+Salsa|DNCE 5539 U    1|Spring|0|Nelida Tirado|T|3:35 PM - 5:15 PM|PAC|BESSI|Component
+Hip-Hop|DNCE 5542 U    1|Fall|0|Matthew Lopez|T R|3:35 PM - 5:30 PM|CSC|ST|Component
+Music for Dancers|DNCE 5551 U    1|Spring|0|William Catanzaro|W|1:45 PM - 3:25 PM|PAC|BESSI|Component
+Movement Materials Lab|DNCE 5553 U    1|Fall|0|Jodi Melnick|M|11:05 AM - 12:45 PM|PAC|BESSI|Component
+Choreographing Light for the Stage|DNCE 5564 U    1|Year|0|Judith Kagel|M|1:45 PM - 3:25 PM|PAC|BESSI|Component
+Moving the Movement|DNCE 5573 U    1|Spring|0|Rakia Seaborn|T|9:00 AM - 10:45 AM|PAC|1|Component
+West African Dance|DNCE 5574 U    1|Spring|0|Ntifafa Akoko Tete Rosenthal|R|5:30 PM - 7:10 PM|MACC|DS|Component
+Anatomy Seminar|DNCE 5575 U    1|Fall|0|Peggy Gould| |-| | |Component
+Anatomy|DNCE 5576 U    1|Fall|0|Peggy Gould|T|11:05 AM - 12:45 PM|PAC|BESSI|Component
+Anatomy|DNCE 5576 U    2|Spring|0|Cara Reeser|T|11:05 AM - 12:45 PM|PAC|BESSI|Component
+Yoga|DNCE 5582 U    1|Spring|0|Patti Bradshaw|R|11:05 AM - 12:45 PM|PAC|BESSI|Component
+Performance Project|DNCE 5590 U    1|Fall|0|Eleanor Smith|M W|3:35 PM - 5:30 PM|PAC|BESSI|Component
+Performance Project|DNCE 5590 U    1|Fall|0|Molly Lieber| |-| | | 
+Performance Project|DNCE 5592 U    1|Spring|0|Jordan Lloyd|M W|3:35 PM - 5:30 PM|PAC|BESSI|Component
+Writing On, With, and Through Dance|DNCE 5608 U    1|Fall|0|EmmaGrace Skove-Epes|T|9:00 AM - 10:45 AM|PAC|1|Component
+Rotating Guest Artist Lab|DNCE 5625 U    1|Year|0|. Dance Faculty| |-| | | 
+Rotating Guest Artist Lab|DNCE 5625 U    1|Year|0|John Jasperse|W|11:05 AM - 12:45 PM|PAC|BESSI| 
+Choreographic Lab|DNCE 5640 U    1|Spring|0|John Jasperse|M|11:05 AM - 12:45 PM|PAC|BESSI|Component
+FYS: The 2024 Presidential Election Inequalty,Climate Crisis,Far Right|ECON 1020 F    1|Year|10|Jamee Moudud|M W|9:00 AM - 10:25 AM|WEST|104|First Year Studies
+FYS: Political Economy of&nbsp;Environmt and Climate Justice|ECON 1029 F    1|Year|10|An Li|M  R|11:05 AM - 12:30 PM|SHEFF|01|First Year Studies
+Legal and Political Foundations of Money, Finance, and the Economy|ECON 2067 L    1|Year|10|Jamee Moudud|T|11:05 AM - 12:00 PM|BATES|206|Group conference
+Legal and Political Foundations of Money, Finance, and the Economy|ECON 2067 L    1|Year|10|Jamee Moudud|W|11:05 AM - 12:00 PM|PAC|1|Group conference
+Legal and Political Foundations of Money, Finance, and the Economy|ECON 2067 L    1|Year|10|Jamee Moudud|M  R|11:05 AM - 12:30 PM|LIBR|PILLW|Open
+US Workers’ Movement: From Colonial Slavery to Economic Globalization|ECON 3041 R    1|Year|10|Noah Shuster|T  F|11:05 AM - 12:30 PM|PAC|1|Open
+Political Economy of Women|ECON 3048 R    1|Year|10|Kimberly Christensen|T R|3:35 PM - 5:00 PM|ONLIN| |Open
+Research Methods in Economics|ECON 3508 R    1|Fall|5|An Li|T R|3:35 PM - 5:00 PM|SC|101|Intermediate
+Political Economy of Environment, Natural Resources,Economic Develop|ECON 3803 R    1|Spring|5|An Li|T R|3:35 PM - 5:00 PM|SC|101|Intermediate
+Workshop: Sustainability Solutions at Sarah Lawrence College|ENVI 2205 L    1|Year|2|Eric Leveau|W|12:30 PM - 1:30 PM|BATES|203|Open
+Indigenous Ecologies/Environmental Justice|ENVI 3116 R    1|Spring|5|Deanna Barenboim|T  F|11:05 AM - 12:30 PM|TITS|LR|Open
+Migration and Climate Crisis|ENVI 3606 R    1|Fall|5|Deanna Barenboim|W|11:05 AM - 1:00 PM|TITS|LR|Intermediate
+Global Warming|ENVS 2070 L    1|Fall|5|Bernice Rosenzweig|M|7:00 PM - 9:00 PM|SC|103|Open
+Global Warming|ENVS 2070 L    1|Fall|5|Bernice Rosenzweig|T|7:00 PM - 8:25 PM|SC|104|Group conference, meets weekly
+Global Warming|ENVS 2070 L    1|Fall|5|Bernice Rosenzweig|W|7:00 PM - 8:25 PM|SC|104|Group conference, meets weekly
+Global Warming|ENVS 2070 L    1|Fall|5|Bernice Rosenzweig|R|11:05 AM - 12:30 PM|SC|104|Group conference, meets weekly
+Climate Resilient Futures|ENVS 2075 L    1|Spring|5|Bernice Rosenzweig|W|3:35 PM - 5:00 PM|SC|103|Open
+Climate Resilient Futures|ENVS 2075 L    1|Spring|5|Bernice Rosenzweig|R|11:05 AM - 12:30 PM|SC|104|Group conference, meets weekly
+Climate Resilient Futures|ENVS 2075 L    1|Spring|5|Bernice Rosenzweig|R|3:35 PM - 5:00 PM|HEIM|210|Group conference, meets weekly
+Geospatial Data Analysis|ENVS 3121 R    1|Fall|5|Bernice Rosenzweig|M W|3:35 PM - 5:00 PM|SC|104|Open
+Environmental Data|ENVS 3163 R    1|Spring|5|Bernice Rosenzweig|M  R|7:00 PM - 8:30 PM|SC|104|Open
+FYS: Documentary Filmmaking: The Personal is Political|FILM 1023 F    1|Year|10|Damani Baker|M|10:00 AM - 1:00 PM|HEIM|211|First Year Studies
+FYS: Cinematography-An Introduction to Visualizing/ Producing a Film|FILM 1028 F    1|Year|10|Misael Sanchez|M W|9:30 AM - 10:55 AM|HEIM|210|First Year Studies
+Not For Children|FILM 2023 L    1|Spring|5|Robin Starbuck|W|11:05 AM - 12:00 PM|HEIM|211|Group confernce
+Not For Children|FILM 2023 L    1|Spring|5|Robin Starbuck|W|10:00 AM - 10:55 AM|HEIM|211|Group confernce
+Not For Children|FILM 2023 L    1|Spring|5|Robin Starbuck|T|9:30 AM - 12:30 PM|HEIM|135|Open
+Not For Children|FILM 2023 L    1|Spring|5|Robin Starbuck|W|2:00 PM - 2:55 PM|HEIM|211|Group confernce
+Producing and Pitching:Creative Producer In The Real World|FILM 2030 L    1|Spring|3|Heather Winters|M|11:05 AM - 2:00 PM|HEIM|202|Open
+Queer Feminist Praxis: Community Engagement and Digital Humanities|FILM 3073 R    1|Spring|5|Yeong Ran Kim|T|3:35 PM - 5:30 PM|HEIM|210|Open
+Queer/Trans/Digital|FILM 3079 R    1|Fall|3|Yeong Ran Kim|T|11:30 AM - 1:30 PM|HEIM|111|Sophomores and above
+Filmmaking Basics: Where to Start|FILM 3101 R    1|Spring|5|Rona Mark|T|11:05 AM - 1:00 PM|HEIM|111|Open
+Filmmaking Basics: Where to Start|FILM 3101 R    1|Spring|5|Rona Mark|R|11:05 AM - 1:30 PM|HEIM|111| 
+Recording and Editing Sound for Film and Media|FILM 3108 R    1|Fall|2|Rosalie Kaplan|F|12:00 PM - 2:00 PM|HEIM|210|Open
+From Ideas to Postproduction|FILM 3117 R    1|Year|10|Jazmin Lopez|R|2:00 PM - 5:00 PM|HEIM|111|Open
+Editing for Film &amp; TV|FILM 3204 R    1|Spring|3|Brian Emery|M|4:00 PM - 6:30 PM|HEIM|135|Open
+Filming with Actors; a Workshop for Directors and Actors|FILM 3224 R    1|Fall|2|Keith Manning|R|11:05 AM - 1:00 PM|HEIM|130|Intermediate
+Short Film Composition|FILM 3238 R    1|Fall|5|Jazmin Lopez|W|5:00 PM - 8:00 PM|HEIM|135| 
+Short Film Composition|FILM 3238 R    1|Fall|5|Jazmin Lopez|W|5:00 PM - 8:00 PM|HEIM|210|Open
+Digital 3D Animation: Character and Environment Building|FILM 3249 R    1|Year|10|Kyle Hittmeier|M|1:00 PM - 3:55 PM|HEIM|136|Open
+TV Writing:Writing the Spec Script:|FILM 3312 R    1|Fall|5|Marygrace O'Shea|R|11:05 AM - 2:00 PM|HEIM|111|Sophomores and above
+Writing the Short Screenplay|FILM 3323 R    1|Fall|5|Margaret Greenwald|R|11:05 AM - 2:00 PM|HEIM|211|Open
+Writing the Feature Screenplay|FILM 3333 R    1|Year|10|Rona Mark|W|11:05 AM - 2:00 PM|HEIM|111|Open
+Your Cinema Vocabulary|FILM 3336 R    1|Spring|5|Jazmin Lopez|W|5:10 PM - 8:05 PM|HEIM|210|Open
+Screenwriting: Tools of the Trade|FILM 3421 R    1|Spring|5|Keith Manning|T|3:35 PM - 6:30 PM|HEIM|211|Open
+2D Character Animation|FILM 3427 R    1|Year|10|Scott Duce|W F|9:00 AM - 10:55 AM|HEIM|129|oPEN
+Storyboarding for Film and Animation|FILM 3428 R    1|Fall|5|Scott Duce|R|9:30 AM - 12:30 PM|HEIM|129|Open
+The Director Prepares|FILM 3446 R    1|Spring|5|Margaret Greenwald|R|11:05 AM - 2:00 PM|HEIM|208|Open
+Working with Light and Shadow|FILM 3461 R    1|Fall|5|Misael Sanchez|W|1:00 PM - 5:00 PM|HEIM|130|Open
+Cinematography, Color, Composition and Style|FILM 3463 R    1|Spring|5|Misael Sanchez|W|1:00 PM - 5:00 PM|HEIM|130|Open
+Producing for Film and TV|FILM 3470 R    1|Fall|5|Elizabeth Levison|M|11:05 AM - 2:00 PM|HEIM|111|Open
+Experiments in Hybrid Animation: Materials and Methods|FILM 3505 R    1|Year|10|Robin Starbuck|TW|3:35 PM - 5:30 PM|HEIM|135|Open
+Experiments in Hybrid Animation: Materials and Methods|FILM 3505 R    1|Year|10|Robin Starbuck|W|10:00 AM - 11:00 AM|HEIM|211|Group conference
+Concept Art: Visual Development|FILM 3513 R    1|Spring|5|Scott Duce|R|9:30 AM - 12:30 PM|HEIM|129|Open
+Advanced Writing for TV: Writing the Original Script|FILM 4186 R    1|Spring|5|Marygrace O'Shea|R|11:05 AM - 2:00 PM|HEIM|211|Advanced
+Advanced Writing for the Screen|FILM 4190 R    1|Fall|5|Rona Mark|F|11:05 AM - 2:00 PM|HEIM|111|Intermediate/Advanced
+Adv. Independent Studio, Animation|FILM 4191 A    1|Year|10|Scott Duce| |-|HEIM|129|Advaced; permission req.
+Adv. Independent Studio, Animation|FILM 4191 A    1|Year|10|Robin Starbuck| |-| | | 
+FYS:Hollywood from the Margins|FLMH 1020 F    1|Year|10|Leana Hirschfeld-Kroen|F|1:30 PM - 3:25 PM|HEIM|211|Group collaborative, alt Fri
+FYS:Hollywood from the Margins|FLMH 1020 F    1|Year|10|Leana Hirschfeld-Kroen|M  R|7:00 PM - 10:00 PM|HEIM|135|Film screening
+FYS:Hollywood from the Margins|FLMH 1020 F    1|Year|10|Leana Hirschfeld-Kroen|T  F|11:05 AM - 12:30 PM|HEIM|211|First Year Studies
+The History and Aesthetics of Film|FLMH 2014 L    1|Year|10|Michael Cramer|M W|7:00 PM - 10:00 PM|HEIM|202|Film screening
+The History and Aesthetics of Film|FLMH 2014 L    1|Year|10|Michael Cramer|W|5:35 PM - 6:30 PM|HEIM|211|Group conference
+The History and Aesthetics of Film|FLMH 2014 L    1|Year|10|Michael Cramer|M|5:35 PM - 6:30 PM|HEIM|211|Group conference
+The History and Aesthetics of Film|FLMH 2014 L    1|Year|10|Michael Cramer|T R|3:35 PM - 5:00 PM|HEIM|202|Open
+Not For Children|FLMH 2022 L    1|Spring|5|Robin Starbuck|W|2:00 PM - 2:55 PM|HEIM|211|Group conference
+Not For Children|FLMH 2022 L    1|Spring|5|Robin Starbuck|T|9:30 AM - 12:30 PM|HEIM|135|Open
+Not For Children|FLMH 2022 L    1|Spring|5|Robin Starbuck|W|10:00 AM - 10:55 AM|HEIM|211|Group conference
+Not For Children|FLMH 2022 L    1|Spring|5|Robin Starbuck|W|11:05 AM - 12:00 PM|HEIM|211|Group conference
+The Movie Musical|FLMH 2029 L    1|Spring|5|Leana Hirschfeld-Kroen|M W|7:00 PM - 10:00 PM|TITS|LH|Film screening
+The Movie Musical|FLMH 2029 L    1|Spring|5|Leana Hirschfeld-Kroen|R|3:35 PM - 5:00 PM|SLON|2|Group conference, meets weekly
+The Movie Musical|FLMH 2029 L    1|Spring|5|Leana Hirschfeld-Kroen|R|2:05 PM - 3:25 PM|SLON|2|Group conference, meets weekly
+The Movie Musical|FLMH 2029 L    1|Spring|5|Leana Hirschfeld-Kroen|R|11:05 AM - 12:30 PM|SLON|2|Group conference, meets weekly
+The Movie Musical|FLMH 2029 L    1|Spring|5|Leana Hirschfeld-Kroen|T|3:35 PM - 5:30 PM|TITS|LH|Open
+Cultural History of Music Videos|FLMH 2060 L    1|Fall|5|Brandon Arroyo|T R|9:00 AM - 10:55 AM|HEIM|202|Open
+Cultural History of Music Videos|FLMH 2060 L    1|Fall|5|Brandon Arroyo|T|11:05 AM - 12:00 PM|PAC|2|Group conference
+Cultural History of Music Videos|FLMH 2060 L    1|Fall|5|Brandon Arroyo|R|11:05 AM - 12:00 PM|PAC|2|Group conference
+Queer and Feminist Cinemas of the Arab Middle East N. Africa|FLMH 3137 R    1|Fall|5|Jeremy Randall|M W|9:30 AM - 10:55 AM|MORL|CL|Open
+Global Horror Cinema|FLMH 3207 R    1|Spring|5|Michael Cramer|T R|7:00 PM - 10:00 PM|HEIM|135|Film screening
+Global Horror Cinema|FLMH 3207 R    1|Spring|5|Michael Cramer|M  R|2:00 PM - 3:25 PM|HEIM|208|Open
+Feminist Film History|FLMH 3220 R    1|Fall|5|Leana Hirschfeld-Kroen|W|3:35 PM - 6:30 PM|HEIM|111|Open
+Feminist Film History|FLMH 3220 R    1|Fall|5|Leana Hirschfeld-Kroen|T|7:00 PM - 10:00 PM|HEIM|202|Film screening
+Beginning French|FREN 3001 R    1|Year|10|Ellen Di Giovanni|F|12:45 PM - 1:45 PM|SWIN|102|Group conference
+Beginning French|FREN 3001 R    1|Year|10|Ellen Di Giovanni|T R|3:35 PM - 5:00 PM|BATES|206|Open
+Intermediate French I French Identities|FREN 3501 R    1|Year|10|Eric Leveau|W F|1:30 PM - 3:25 PM|MORL|CL|Intermediate
+Intermed French I:  Scène(s) de littérature|FREN 3502 R    1|Year|10|Ellen Di Giovanni|T R|9:30 AM - 10:55 AM|LIBR|E2|Intermediate
+Intermediate French II: Colonialism &amp; Legacy:France &amp; Sub-Sahara Afric|FREN 3750 R    1|Year|10|Kameron Ackerman|W F|2:00 PM - 3:25 PM|LIBR|E2|Intermediate
+Adv French:Writing the Modern Self: Autobiography,Autoportrait,Autofic|FREN 4034 R    1|Fall|5|Jason Earle|T R|3:35 PM - 5:00 PM|DL|LR|Intermediate/Advanced
+Physiology and Disease|GENE 4050 R    1|Fall|3|Frederick Nagel| |-|ONLIN| |Open to Juniors and Seniors
+Food, Agriculture, Environment and Development|GEOG 2015 L    1|Spring|5|Joshua Muldavin|W|1:05 PM - 2:00 PM|SHEFF|01|Group conference
+Food, Agriculture, Environment and Development|GEOG 2015 L    1|Spring|5|Joshua Muldavin|W|11:05 AM - 12:00 PM|SHEFF|01|Group conference
+Food, Agriculture, Environment and Development|GEOG 2015 L    1|Spring|5|Joshua Muldavin|W|12:05 PM - 1:00 PM|SHEFF|01|Group conference
+Food, Agriculture, Environment and Development|GEOG 2015 L    1|Spring|5|Joshua Muldavin|T R|3:35 PM - 5:00 PM|SC|103|Open
+The Rise of the New Right in U.S.|GEOG 3124 R    1|Spring|5|Joshua Muldavin|W|3:35 PM - 6:00 PM|SHEFF|01|Sophomores and above
+The Geography of Contemporary China: A Political Ecology|GEOG 3572 R    1|Fall|5|Joshua Muldavin|W|3:35 PM - 6:00 PM|SHEFF|01|Open
+Beginning German|GERM 3001 R    1|Year|10|Matthew Cooper|M WR|2:00 PM - 3:25 PM|BATES|015|Open
+Intermediate German|GERM 3510 R    1|Year|10|Roland Dollinger|M W|3:35 PM - 5:00 PM|BATES|015|Intermediate
+Beginning Greek|GREE 3001 A    1|Year|10|Emily Fairey|W|12:35 PM - 1:30 PM|DL|04| 
+Beginning Greek|GREE 3001 A    1|Year|10|Emily Fairey|M  R|2:00 PM - 3:25 PM|DL|04|Open
+First-Year Studies: Romantic Europe|HIST 1034 F    1|Year|10|Philip Swoboda|T  F|11:05 AM - 12:30 PM|BATES|015|First Year Studies
+FYS: Gender, Culture and Politics in U.S. History, 1776-1980|HIST 1036 F    1|Year|10|Lyde Sizer|T R|9:30 AM - 10:55 AM|WEST|104|First Year Studies
+First Year Studies: "Inventing America": Cultural Encounters|HIST 1044 F    1|Year|10|Eileen Cheng|M  R|11:05 AM - 12:30 PM|BATES|206|First Year Studies
+FYS: The Urban Century: How Cities Shaped and were Shaped by History|HIST 1045 F    1|Year|10|Philipp Nielsen|T R|9:30 AM - 10:55 AM|HEIM|111|First Year Studies
+FYS: The Urban Century: How Cities Shaped and were Shaped by History|HIST 1045 F    1|Year|10|Philipp Nielsen|W|11:05 AM - 12:45 PM|HEIM|210|Group collaborative
+FYS:  In the Tradition:Introduction to African-American History|HIST 1046 F    1|Year|10|Komozi Woodard|M  R|11:05 AM - 12:30 PM|WEST|104|First Year Studies
+FYS: Ideas of Africa: Africa Writes Back|HIST 1054 F    1|Year|10|Mary Dillard|T R|9:30 AM - 10:55 AM|DL|LR|First Year Studies
+Who Owns History? Urban &amp; Ethnic History in America|HIST 2025 L    1|Year|10|Komozi Woodard|T|10:00 AM - 10:55 AM|ANDH|104|Group conference, meets weekly
+Who Owns History? Urban &amp; Ethnic History in America|HIST 2025 L    1|Year|10|Komozi Woodard|M|3:35 PM - 5:30 PM|TITS|LH|Open
+Who Owns History? Urban &amp; Ethnic History in America|HIST 2025 L    1|Year|10|Komozi Woodard|W|10:00 AM - 10:55 AM|BATES|206|Group conference, meets weekly
+Who Owns History? Urban &amp; Ethnic History in America|HIST 2025 L    1|Year|10|Komozi Woodard|R|2:00 PM - 2:55 PM|SHEFF|01|Group conference, meets weekly
+International Law|HIST 2035 L    1|Fall|5|Mark Shulman|M  R|2:00 PM - 3:25 PM|TITS|LH|Open
+International Law|HIST 2035 L    1|Fall|5|Mark Shulman|M|3:35 PM - 4:30 PM|DL|04|Group conference
+International Law|HIST 2035 L    1|Fall|5|Mark Shulman|R|3:35 PM - 4:30 PM|DL|04|Group conference
+Human Rights|HIST 2036 L    1|Spring|5|Mark Shulman|R|3:35 PM - 4:30 PM|DL|04|Group conference
+Human Rights|HIST 2036 L    1|Spring|5|Mark Shulman|M|3:35 PM - 4:30 PM|DL|04|Group conference
+Human Rights|HIST 2036 L    1|Spring|5|Mark Shulman|M  R|2:00 PM - 3:25 PM|TITS|LH|Open
+The Jewish Century: European Jewish History: Emancipation to Destructn|HIST 2041 L    1|Fall|5|Philipp Nielsen|R|3:35 PM - 5:00 PM|SLON|2|Group conference, meets weekly
+The Jewish Century: European Jewish History: Emancipation to Destructn|HIST 2041 L    1|Fall|5|Philipp Nielsen|R|2:00 PM - 3:25 PM|SLON|2|Group conference, meets weekly
+The Jewish Century: European Jewish History: Emancipation to Destructn|HIST 2041 L    1|Fall|5|Philipp Nielsen|T|3:35 PM - 5:00 PM|LIBR|PILLW|Open
+Screening the City|HIST 2046 L    1|Spring|5|Ryan Purcell|R|2:00 PM - 2:55 PM|HEIM|210|Group conference, meets weekly
+Screening the City|HIST 2046 L    1|Spring|5|Ryan Purcell|T|3:35 PM - 4:30 PM|SLON|SR|Group conference, meets weekly
+Screening the City|HIST 2046 L    1|Spring|5|Ryan Purcell|R|3:35 PM - 5:30 PM|HEIM|208|Open
+Making Latin America|HIST 2078 L    1|Fall|5|Maria Fajardo-Hernandez|R|11:05 AM - 12:00 PM|SLON|2|Group conference, meets weekly
+Making Latin America|HIST 2078 L    1|Fall|5|Maria Fajardo-Hernandez|R|10:00 AM - 10:55 AM|SLON|2|Group conference, meets weekly
+Making Latin America|HIST 2078 L    1|Fall|5|Maria Fajardo-Hernandez|M|9:00 AM - 10:55 AM|HEIM|135|Open
+Racial Soundscapes|HIST 2095 L    1|Fall|5|Ryan Purcell|R|2:00 PM - 2:55 PM|HEIM|211|Group conference, meets weekly
+Racial Soundscapes|HIST 2095 L    1|Fall|5|Ryan Purcell|T|3:35 PM - 4:30 PM|HEIM|211|Group conference, meets weekly
+Racial Soundscapes|HIST 2095 L    1|Fall|5|Ryan Purcell|R|3:35 PM - 5:30 PM|HEIM|208|l
+The American Revolution|HIST 3014 R    1|Fall|5|Eileen Cheng|W|11:00 AM - 1:00 PM|SHEFF|02|Open
+"Fighting over the Founders": Legacy of  American Revoltution|HIST 3022 R    1|Spring|5|Eileen Cheng|W|11:00 AM - 1:00 PM|SHEFF|02|Open
+Imperialism and Servitude: Slave Rebellions in Greek/Roman History|HIST 3103 R    1|Spring|5|Emily Fairey|M W|3:35 PM - 5:00 PM|TITS|LR|Open
+The Disreputable Sixteenth Century|HIST 3164 R    1|Year|10|Philip Swoboda|M  R|2:00 PM - 3:25 PM|ANDH|101|Open
+Gender and History in China: Beyond Eunuchs and Concubines|HIST 3166 R    1|Year|10|Kevin Landdeck|W|3:35 PM - 6:00 PM|TWEED|LR|Sophomores and above
+Urban Humanities|HIST 3217 A    1|Spring|5|Ryan Purcell|F|9:00 AM - 10:55 AM|TWEED|LR|Sophomores and above
+History of White Supremacy|HIST 3277 A    1|Fall|5|Ryan Purcell|F|9:00 AM - 10:55 AM|TWEED|LR|Sophomores and above
+Documenting Asian/America|HIST 3330 R    1|Fall|5|Karintha Lowe|T R|3:35 PM - 5:00 PM|HEIM|210|Open
+Wealth and Poverty: A History of Capitalism (and its Critics)|HIST 3340 R    1|Fall|5|Maria Fajardo-Hernandez|M|1:00 PM - 3:25 PM|HEIM|211|Sophomores and above
+Nationalism|HIST 3415 R    1|Spring|5|Matthew Ellis|W|3:35 PM - 6:00 PM|BATES|04|Sophomores and above
+The Middle East &amp; the Politics of Collective Memory|HIST 3423 R    1|Fall|5|Matthew Ellis|W|3:35 PM - 6:00 PM|DL|LR|Sophomores and above
+Decolonization and the End of Empire|HIST 3424 R    1|Fall|5|Matthew Ellis|T  F|11:05 AM - 12:30 PM|BATES|04|Open
+Women and Gender in the Middle East|HIST 3461 R    1|Spring|5|Matthew Ellis|T  F|11:05 AM - 12:30 PM|WEST|104|Open
+The Power of Place: Museums, Monuments &amp; Public History Yonkers|HIST 3721 R    1|Spring|5|Mary Dillard|W|2:00 PM - 5:00 PM|HEIM|210|Open
+Public Humanities in Practice: The Yonkers Public Library|HIST 4128 A    1|Spring|3|Benjamin Zender|T|5:45 PM - 8:00 PM|OFFCM| |Intermediate/Advanced
+Directed Study To Be Approved- Two Credits|INDP 6500 Z    2|Spring|2|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Two Credits|INDP 6500 Z    2|Fall|2|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Three Credits|INDP 6500 Z    3|Fall|3|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Three Credits|INDP 6500 Z    3|Spring|3|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Four Credits|INDP 6500 Z    4|Fall|4|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Four Credits|INDP 6500 Z    4|Spring|4|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Five Credits|INDP 6500 Z    5|Spring|5|TBATBA| |-| | |Requires Proposal to DOS
+Directed Study To Be Approved- Five Credits|INDP 6500 Z    5|Fall|5|TBATBA| |-| | |Requires Proposal to DOS
+Beginning Italian:Viaggio in Italia|ITAL 3001 R    1|Year|10|Tristana Rorandelli|W|9:30 AM - 10:25 AM|LIBR|E2|Group conference
+Beginning Italian:Viaggio in Italia|ITAL 3001 R    1|Year|10|Tristana Rorandelli|M  R|2:00 PM - 3:25 PM|LIBR|E2|Open
+Beginning Italian:Viaggio in Italia|ITAL 3001 R    1|Year|10|Tristana Rorandelli|W|12:30 PM - 1:25 PM|LIBR|E2|Group conference
+Intermediate Italian:  Modern  Italian Culture and Literat|ITAL 3510 R    1|Year|10|Tristana Rorandelli|M  R|11:05 AM - 12:30 PM|LIBR|E2|Intermediate
+Japanese I|JAPN 3001 R    1|Year|10|Izumi Onishi|M  R|2:00 PM - 3:25 PM|WEST|104|Open
+Japanese I|JAPN 3001 R    2|Year|10|Yoshimi Arai|W F|2:00 PM - 3:25 PM|DL|04|Open
+Japanese II|JAPN 3510 R    1|Year|10|Izumi Onishi|M W|3:35 PM - 5:00 PM|WEST|104|Intermediate
+Japanese III|JAPN 3700 R    1|Year|10|Izumi Onishi|T R|3:35 PM - 5:00 PM|WEST|104|Intermediate/Advanced
+Music and Identity: “Listening”  to Race, Gender, and Sexuality|LGST 2040 L    1|Fall|5|Daniel McCarthy Howard|R|3:35 PM - 4:30 PM|PAC|2|Group conference
+Music and Identity: “Listening”  to Race, Gender, and Sexuality|LGST 2040 L    1|Fall|5|Daniel McCarthy Howard|R|2:00 PM - 2:55 PM|PAC|2|Group conference
+Music and Identity: “Listening”  to Race, Gender, and Sexuality|LGST 2040 L    1|Fall|5|Daniel McCarthy Howard|W F|2:00 PM - 3:25 PM|HEIM|208|Open
+Perverts in Groups: Queer Social Lives|LGST 3022 R    1|Spring|5|Julie Abraham|M  R|11:05 AM - 12:30 PM|DL|LR|Open
+Feminist and Queer Activisms: Looking Beyond Stonewall|LGST 3054 R    1|Spring|5|Daniel McCarthy Howard|W F|2:00 PM - 3:25 PM|ANDH|103|Open
+Queer/Trans/Digital|LGST 3079 R    1|Fall|3|Yeong Ran Kim|T|11:30 AM - 1:30 PM|HEIM|210|Sophomores and above
+Feminist and Queer Waves: Reading Canon in Context|LGST 3209 R    1|Fall|5|Benjamin Zender|M|11:05 AM - 12:30 PM|DL|LR|Sophomores and above
+Feminist and Queer Waves: Reading Canon in Context|LGST 3209 R    1|Fall|5|Benjamin Zender|R|11:05 AM - 12:30 PM|LIBR|E1| 
+Absences of the Archive: Queer Pespectives|LGST 3211 R    1|Fall|5|Daniel McCarthy Howard|T|3:35 PM - 5:30 PM|SLON|2|Sophomores and above
+Brown Feeling(s):Situating the Work of José Esteban Muñoz|LGST 3260 R    1|Spring|5|Daniel McCarthy Howard|T|3:35 PM - 5:30 PM|DL|LR|Sophomores and above
+Pretty, Witty, and Gay|LGST 3762 R    1|Spring|5|Julie Abraham|T|11:05 AM - 1:30 PM|DL|LR|Sophomores and above
+Interrogating the Information Ecosystem|LIBR 3000 R    1|Fall|1|Emily Johnson-Young|F|11:05 AM - 12:30 PM|LIBR|E1| 
+Interrogating the InformationEcosystem|LIBR 3000 R    1|Spring|1|Rachel Leff|W|2:00 PM - 3:20 PM|LIBR|E1|Open
+Interrogating the InformationEcosystem|LIBR 3000 R    1|Spring|1|Emily Johnson-Young|W|-|LIBR|E1| 
+Interrogating the Information Ecosystem|LIBR 3000 R    1|Fall|1|Rachel Leff|F|11:05 AM - 12:30 PM|LIBR|E1|Open; meets alternate weeks
+FYS: An Introduction to German Literature &amp;  Film from 18th C-Now|LITR 1057 F    1|Year|10|Roland Dollinger|T|5:00 PM - 6:25 PM|BATES|015|Group collaborative, biweekly
+FYS: An Introduction to German Literature &amp;  Film from 18th C-Now|LITR 1057 F    1|Year|10|Roland Dollinger|M  R|11:05 AM - 12:30 PM|ANDH|104|First Year Studies
+FYS: Deconstructing Nature in the Western Tradition|LITR 1064 F    1|Year|10|Eric Leveau|W|3:35 PM - 5:00 PM|LIBR|E2|Group collaborative
+FYS: Deconstructing Nature in the Western Tradition|LITR 1064 F    1|Year|10|Eric Leveau|T  F|11:05 AM - 12:30 PM|LIBR|E2|First Year Studies
+FYS: Literatures of the Spanish Speaking World in Context|LITR 1085 F    1|Year|10|Eduardo Lago|M  R|11:05 AM - 12:30 PM|TWEED|LR|First Year Studies
+High Romantic Poetry: Blake to Keats|LITR 2008 L    1|Fall|5|Neil Arditi|T|7:00 PM - 7:55 PM|SHEFF|02|Group conference, meets weekly
+High Romantic Poetry: Blake to Keats|LITR 2008 L    1|Fall|5|Neil Arditi|T|11:30 AM - 12:25 PM|SC|101|Group conference, meets weekly
+High Romantic Poetry: Blake to Keats|LITR 2008 L    1|Fall|5|Neil Arditi|R|1:30 PM - 3:25 PM|SC|103|Open
+Shakespeare and the Semiotics of Performance|LITR 2033 L    1|Year|10|Joseph Lauinger|T  F|11:05 AM - 12:30 PM|TITS|LH|Open
+Shakespeare and the Semiotics of Performance|LITR 2033 L    1|Year|10|Joseph Lauinger|T|12:35 PM - 1:30 PM|TITS|LR|Group conference
+Shakespeare and the Semiotics of Performance|LITR 2033 L    1|Year|10|Joseph Lauinger|F|12:35 PM - 1:30 PM|TITS|LR|Group conference
+Forms and Logic of Comedy|LITR 2041 L    1|Spring|5|Frederic Smoler|M  R|11:05 AM - 12:30 PM|TITS|LH|Open
+Forms and Logic of Comedy|LITR 2041 L    1|Spring|5|Frederic Smoler|T|11:05 AM - 12:00 PM|DL|04|Group conference
+Forms and Logic of Comedy|LITR 2041 L    1|Spring|5|Frederic Smoler|W|10:00 AM - 10:55 AM|DL|LR|Group conference
+The Empire’s New Groove: The Global 19th-Century Novel|LITR 2046 L    1|Fall|5|Emily Foster|W|1:30 PM - 3:25 PM|PAC|3|Open
+The Empire’s New Groove: The Global 19th-Century Novel|LITR 2046 L    1|Fall|5|Emily Foster|M|12:25 PM - 1:50 PM|PAC|2|Group conference
+The Empire’s New Groove: The Global 19th-Century Novel|LITR 2046 L    1|Fall|5|Emily Foster|M|2:00 PM - 3:25 PM|PAC|2|Group conference
+Cold War Black Feminism|LITR 2073 L    1|Fall|5|Elias Rodriques|W|2:30 PM - 3:25 PM|HEIM|210|Group conference
+Cold War Black Feminism|LITR 2073 L    1|Fall|5|Elias Rodriques|M  R|2:00 PM - 3:25 PM|HEIM|202|Open
+Cold War Black Feminism|LITR 2073 L    1|Fall|5|Elias Rodriques|W|3:35 PM - 4:30 PM|HEIM|210|Group conference
+First Person America:Two Centuries of Classic American Literature|LITR 3010 R    1|Spring|5|Nicolaus Mills|W|11:05 AM - 1:00 PM|WEST|104|Sophomores &amp; above;FY w/perm
+Contemporary Native American Literature|LITR 3012 R    1|Spring|5|Isabel Lockhart|T R|9:30 AM - 10:55 AM|BATES|015|Open
+African American Prison Literature|LITR 3059 R    1|Spring|5|Elias Rodriques|M|6:15 PM - 9:00 PM| | |Bedford Hills
+What is Literature? Literary Theory|LITR 3072 R    1|Spring|5|Una Chung|T|3:35 PM - 5:30 PM|SHEFF|22|Open
+Energy and Literature|LITR 3078 R    1|Fall|5|Isabel Lockhart|T R|9:30 AM - 10:55 AM|HEIM|210|Open
+"The Atlantic is a Sea of Bones:" Black Literatures of the Ocean|LITR 3079 R    1|Spring|5|Elias Rodriques|M  R|11:05 AM - 12:30 PM|SWIN|102|Open
+Care Work|LITR 3084 R    1|Fall|5|Emily Bloom|M|1:30 PM - 3:25 PM|ANDH|103|Open
+Care Work|LITR 3084 R    1|Fall|5|Emily Bloom|W|1:30 PM - 3:25 PM|OFFCM| |Wartburg
+Experiment and Scandal: The 18th Century English Novel|LITR 3125 R    1|Year|10|James Horowitz|T  F|11:05 AM - 12:30 PM|SHEFF|22|Sophomores and above
+The Music of What Happens:Alternate Histories/Counterfactuals|LITR 3133 R    1|Spring|5|Frederic Smoler|M  R|2:00 PM - 3:25 PM|DL|LR|Open
+Ancient Eros: Love in Classical Lit|LITR 3150 R    1|Fall|5|Emily Fairey|M W|3:35 PM - 5:00 PM|TITS|LR|Open
+Wilde and Shaw|LITR 3163 R    1|Spring|5|Joseph Lauinger|W|11:05 AM - 1:30 PM|DL|LR|Sophomores and above
+Double Thoughts &amp; Double-Consciousness: Russian &amp; African-Amer Lit|LITR 3171 R    1|Fall|5|Melissa Frazier|M W|3:35 PM - 5:00 PM|BATES|04|Open
+What is the Renaissance? European Literature fr Rebirth of Humanism|LITR 3177 R    1|Year|10|Nicholas Utzig|M  R|11:05 AM - 12:30 PM|SHEFF|02|Open
+Modernism Across Generations|LITR 3178 R    1|Spring|5|Emily Bloom|M W|1:30 PM - 3:25 PM|TWEED|LR|Open
+Dial G for Gothic: Alfred Hitchcock and the  Literature of Fear|LITR 3179 R    1|Year|10|James Horowitz|M  R|2:00 PM - 3:25 PM|BATES|206|Open
+Dial G for Gothic: Alfred Hitchcock and the  Literature of Fear|LITR 3179 R    1|Year|10|James Horowitz|R|4:30 PM - 5:25 PM|SHEFF|22|Small group meeting
+Dial G for Gothic: Alfred Hitchcock and the  Literature of Fear|LITR 3179 R    1|Year|10|James Horowitz|M|4:30 PM - 5:25 PM|SHEFF|22|Small group meeting
+Writing Women: Women Writers in the English Renaissance|LITR 3192 R    1|Fall|5|Nicholas Utzig|M  R|2:00 PM - 3:25 PM|SHEFF|02|Open
+From the Earth to the Moon: Science &amp; Literature:Lucretius-English Ren|LITR 3206 R    1|Spring|5|Nicholas Utzig|M  R|2:00 PM - 3:25 PM|SHEFF|02|Open
+Interrogating God: Tragedy/Divinity|LITR 3338 R    1|Fall|5|Joseph Lauinger|W|11:05 AM - 1:30 PM|DL|LR|Sophomores and above
+Documenting Asian/America|LITR 3353 R    1|Fall|5|Karintha Lowe|T R|3:35 PM - 5:00 PM|HEIM|210|Open
+Celebrity,Spirituality, &amp;  the Cult of Sainthood  in the Middle Ages|LITR 3358 R    1|Fall|5|Gillian Adler|W|3:35 PM - 6:00 PM|SC|201|Open
+The Ethnological Temptation:|LITR 3413 R    1|Year|10|Una Chung|S|10:45 AM - 12:45 PM|SHEFF|22|Sophomores and above
+Literature in Translation:Colette, Duras, Ernaux|LITR 3431 R    1|Spring|5|Jason Earle|T R|3:35 PM - 5:00 PM|MORL|CL|Open
+Global Surrealisms|LITR 3434 R    1|Spring|5|Jason Earle|T  F|11:05 AM - 12:30 PM|PAC|3|Open
+Emersonian Quartet: Whitman, Dickinson, Frost, Stevens|LITR 3510 R    1|Spring|5|Neil Arditi|F|1:35 PM - 3:30 PM|TITS|LR|Open
+The Marriage Plot: Love and Romance in American &amp; English Fiction|LITR 3526 R    1|Fall|5|Nicolaus Mills|W|11:05 AM - 1:00 PM|WEST|104|Sophomores &amp; above;FY w/perm
+Elective Affinities in Contemporary Poetry|LITR 3750 R    1|Year|10|Neil Arditi|M|11:05 AM - 1:00 PM|BATES|015|Sophomores and above
+FYS: Modern Mathematics:  Logic,  Risk, Analytics &amp; Optimality|MATH 1020 F    1|Year|10|Daniel King|T R|3:35 PM - 5:30 PM|SC|201|First Year Studies
+Game Theory: The Study of Strategy and Conflict|MATH 2014 L    1|Fall|5|Daniel King|T R|9:00 AM - 10:55 AM|SC|103|Open
+Game Theory: The Study of Strategy and Conflict|MATH 2014 L    1|Fall|5|Daniel King|W|1:00 PM - 2:00 PM|LIBR|E1|Group conference
+Game Theory: The Study of Strategy and Conflict|MATH 2014 L    1|Fall|5|Daniel King|W|2:15 PM - 3:15 PM|LIBR|E1|Group conference
+Game Theory: The Study of Strategy and Conflict|MATH 2014 L    1|Fall|5|Daniel King|W|3:35 PM - 4:35 PM|LIBR|E1|Group conference
+An Introduction to Statistical Methods and Analysis|MATH 2024 L    1|Spring|5|Abbe Herzig|R|1:00 PM - 1:55 PM|SC|101|Group conference
+An Introduction to Statistical Methods and Analysis|MATH 2024 L    1|Spring|5|Abbe Herzig|T|12:00 PM - 12:55 PM|SHEFF|01|Group conference
+An Introduction to Statistical Methods and Analysis|MATH 2024 L    1|Spring|5|Abbe Herzig|T R|9:30 AM - 10:55 AM|SC|103|Open
+Calculus I: The Study of Motion and Change|MATH 3005 R    1|Fall|5|Philip Ording|W F|2:00 PM - 3:25 PM|ANDH|101|Open
+Calculus II: Further Study of Motion and Change|MATH 3010 R    1|Fall|5|Abbe Herzig|T R|3:35 PM - 5:30 PM|BATES|04|Open
+Calculus II: Further Study of Motion and Change|MATH 3010 R    1|Spring|5|Philip Ording|W F|2:00 PM - 3:25 PM|ANDH|101|Open
+Modern Mathematics:  Logic, Risk, Analytics &amp; Optimality|MATH 3025 R    1|Year|10|Daniel King|T R|3:35 PM - 5:30 PM|SC|201|Open
+Mirrors, Labyrinths and Paradoxes: Mathematics and Jorge Luis Borges|MATH 3320 R    1|Spring|5|Daniel King|W|6:30 PM - 9:30 PM|SC|201|Open
+Multivariable Math:Linear Algebra, Vector Calculus, Differential Eq|MATH 3516 R    1|Year|10|Philip Ording|T  F|11:05 AM - 12:30 PM|ANDH|101|Intermediate
+FYS: Music and Technology|MUHS 1023 F    1|Year|10|John Yannelli|T R|9:30 AM - 10:55 AM|MFLD|CH|First Year Studies
+Punk|MUHS 2014 L    1|Spring|5|Martin Goldray|W|3:35 PM - 5:30 PM|MFLD|1|Open
+Punk|MUHS 2014 L    1|Spring|5|Martin Goldray|M|2:00 PM - 2:55 PM|MFLD|1|Group conference, meets weekly
+Punk|MUHS 2014 L    1|Spring|5|Martin Goldray|T|3:35 PM - 4:30 PM|MFLD|1|Group conference, meets weekly
+Punk|MUHS 2014 L    1|Spring|5|Martin Goldray|W|2:00 PM - 2:55 PM|MFLD|1|Group conference, meets weekly
+Music, Structure, Power: Theories of Musical Meaning|MUHS 2035 L    1|Fall|5|Nicholas Higgins|R|10:00 AM - 10:55 AM|HEIM|208|Group conference
+Music, Structure, Power: Theories of Musical Meaning|MUHS 2035 L    1|Fall|5|Nicholas Higgins|M  R|2:00 PM - 3:25 PM|HEIM|208|Open
+Music, Structure, Power: Theories of Musical Meaning|MUHS 2035 L    1|Fall|5|Nicholas Higgins|M|10:00 AM - 10:55 AM|HEIM|208|Group conference
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Spring|5|Patrick Muchmore|W|2:00 PM - 2:55 PM|MFLD|21|Group conference, meets weekly
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Fall|5|Patrick Muchmore|W|1:00 PM - 1:55 PM|MFLD|21|Group conference, meets weekly
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Fall|5|Patrick Muchmore|T|11:30 AM - 12:25 PM|MFLD|21|Group conference, meets weekly
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Fall|5|Patrick Muchmore|W|3:35 PM - 5:30 PM|PAC|REI|Open
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Spring|5|Patrick Muchmore|W|1:00 PM - 1:55 PM|MFLD|21|Group conference, meets weekly
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Spring|5|Patrick Muchmore|T|11:30 AM - 12:25 PM|MFLD|21|Group conference, meets weekly
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Spring|5|Patrick Muchmore|W|3:35 PM - 5:30 PM|PAC|REI|Open
+Music and (almost) Everything All at Once|MUHS 2040 L    1|Fall|5|Patrick Muchmore|W|2:00 PM - 2:55 PM|MFLD|21|Group conference, meets weekly
+Sounding Voices and Voicing Sound: Musical and Sonic Interventions|MUHS 3070 R    1|Spring|5|Nicholas Higgins|M  R|2:00 PM - 3:25 PM|MFLD|34|Open
+Music Round Table|MUSC 3021 R    1|Spring|2|Martin Goldray|T|3:35 PM - 5:30 PM|MFLD|01|Open
+Iraqi Maqam Ensemble|MUSC 3105 R    1|Fall|2|Hamid Al-Saadi|M|3:35 PM - 5:00 PM|MFLD|21|Open
+Iraqi Maqam Ensemble|MUSC 3105 R    2|Spring|2|Hamid Al-Saadi|M|3:35 PM - 5:00 PM|MFLD|21|Open
+Film Composing Workshop|MUSC 3108 R    1|Year|4|Giancarlo Vulcano|M|11:05 AM - 1:00 PM|MFLD|CH|Open
+Music Components for IndividualCredit|MUSC 4400 P    1|Year|2|John Yannelli| |-| | |Must also file music comp form
+Music Components for IndividualCredit|MUSC 4400 P    2|Year|4|John Yannelli| |-| | |Must also file Music comp form
+Music Components for IndividualCredit|MUSC 4400 P    3|Year|6|John Yannelli| |-| | |Must also file Music comp form
+Music Program - Two/Thirds|MUSC 4498 P    1|Fall|5|John Yannelli| |-| | |Reg for Comp through Music Dep
+Music Program - Two/Thirds|MUSC 4498 P    1|Spring|5|John Yannelli| |-| | |Reg for Comp through Music Dep
+Music Program|MUSC 4499 P    1|Year|10|John Yannelli| |-| | |Reg for Comp through Music Dep
+Composition|MUSC 5002 U    1|Year|0|Patrick Muchmore| |-| | |Component, section 1
+Composition|MUSC 5002 U    2|Year|0|John Yannelli| |-| | |Component, section 2
+Composition|MUSC 5002 U    3|Year|0|Giancarlo Vulcano| |-| | |Component
+Piano|MUSC 5013 U    1|Spring|0|Martin Goldray| |-| | |Component, section 1
+Piano|MUSC 5013 U    2|Year|0|Barbara Mort-Zieff| |-| | |Component, section 2
+Piano|MUSC 5013 U    4|Year|0|Paul Kerekes| |-| | |Component
+Piano (Jazz)|MUSC 5019 U    1|Year|0|William Lester| |-| | |Component
+Voice|MUSC 5020 U    1|Year|0|Kirsten Brown| |-| | |Component, section 1
+Voice|MUSC 5020 U    2|Year|0|Mary Phillips| |-| | |Component, section 2
+Voice|MUSC 5020 U    3|Year|0|Thomas Young| |-| | |Component, section 3
+Flute|MUSC 5030 U    1|Year|0|Roberta Michel| |-| | |Component
+Trumpet|MUSC 5034 U    1|Year|0|Christopher Anderson| |-| | |Component
+Clarinet|MUSC 5035 U    1|Year|0|Benjamin Fingland| |-| | |Component
+Trombone|MUSC 5036 U    1|Year|0|Jennifer Baker| |-| | |Component
+Saxophone (Jazz/Classical)|MUSC 5038 U    1|Year|0|John Isley| |-| | |Component
+Bassoon|MUSC 5039 U    1|Year|0|James Jeter| |-| | |Component
+Oboe|MUSC 5040 U    1|Year|0|Stuart Breczinski| |-| | |Component
+Horn|MUSC 5041 U    1|Year|0|TBATBA| |-| | |Component
+Euphonium|MUSC 5044 U    1|Year|0|Mark Broschinsky| |-| | |Component
+Violin|MUSC 5050 U    1|Year|0|Richard Rood| |-| | |Component
+Violin|MUSC 5050 U    3|Year|0|Ragnhildur Petursdottir| |-| | |Component
+Viola|MUSC 5052 U    1|Year|0|Junah Chung| |-| | |Component
+Violoncello|MUSC 5055 U    1|Year|0|Helen Bardin| |-| | |Component
+Harp|MUSC 5057 U    1|Year|0|Amelia Theodoratus| |-| | |Component
+Contrabass|MUSC 5058 U    1|Year|0|Mark Helias| |-| | |Component
+Guitar (Acoustic), Banjo, Mandolin|MUSC 5071 U    1|Year|0|William Anderson| |-|MFLD|31|Component
+Guitar (Jazz/Blues)|MUSC 5072 U    1|Year|0|Glenn Alexander| |-| | |Component
+Electric Bass (Jazz/Blues)|MUSC 5073 U    1|Year|0|Bill Moring| |-| | |Component
+Percussion (Drum Set)|MUSC 5080 U    1|Year|0|Matthew Wilson| |-| | |Component
+Percussion (Mallet)|MUSC 5080 U    2|Year|0|Ian Antonio| |-| | |Component
+Theory I: Materials of Music|MUSC 5105 U    1|Year|0|Paul Kerekes|M  R|11:05 AM - 12:30 PM|MFLD|32|Component, section 1
+Theory I: Materials of Music|MUSC 5105 U    2|Year|0|Barbara Mort-Zieff|T  F|11:05 AM - 12:30 PM|MFLD|22|Component, section 2
+Theory II: Basic Tonal Theory andComposition|MUSC 5110 U    1|Year|0|Paul Kerekes|M  R|2:00 PM - 3:25 PM|MFLD|32|Component, section 1
+Theory II: Basic Tonal Theory andComposition|MUSC 5110 U    2|Year|0|Patrick Muchmore|T R|3:35 PM - 5:00 PM|MFLD|21|Component, section 2
+Advanced Theory: Jazz Theory andHarmony|MUSC 5125 U    1|Year|0|Glenn Alexander|W|11:05 AM - 12:30 PM|MFLD|01B|Component
+Adv Theory: 20th Century Post-Tonal &amp; Rock Music|MUSC 5130 U    1|Year|0|Patrick Muchmore|W|11:05 AM - 12:30 PM|MFLD|21|Component
+Advanced Theory: Tonal Theory and Analysis|MUSC 5134 U    1|Year|0|Patrick Muchmore|R|11:05 AM - 12:30 PM|MFLD|21|Component
+Advanced Theory: Jazz Arranging and Orchestration|MUSC 5139 U    1|Year|0|John Isley| |-| | |Component
+Film Composing Workshop|MUSC 5171 U    1|Year|0|Giancarlo Vulcano|M|11:05 AM - 1:00 PM|MFLD|CH|Component
+Studio Composition and Music Technology|MUSC 5173 U    1|Year|0|John Yannelli|W|2:00 PM - 3:25 PM|MFLD|CH|Component
+Introduction to Electronic Music and Music Technology|MUSC 5174 U    1|Year|0|John Yannelli|T|11:05 AM - 1:00 PM|MFLD|CH|Component
+Recording, Mixing, and Mastering Electronic Music|MUSC 5181 U    1|Year|0|John Yannelli|W|11:05 AM - 12:30 PM|MFLD|CH|Component
+Advanced Theory Compositional Tools and Techniques|MUSC 5183 U    1|Year|0|Patrick Muchmore|R|2:00 PM - 3:25 PM|MFLD|21|Component
+Music Roundtable|MUSC 5201 U    1|Spring|0|Martin Goldray|T|3:35 PM - 5:30 PM|MFLD|01|Component
+Survey of Western Music|MUSC 5210 U    1|Year|0|Paul Kerekes|R|3:35 PM - 5:30 PM|MFLD|32|Component
+Music, Structure, and Power: Theories of Musical Meaning|MUSC 5274 U    1|Fall|0|Nicholas Higgins|M  R|2:00 PM - 3:25 PM|MFLD|34|Component
+Music and (almost) Everything All at Once|MUSC 5276 U    1|Fall|0|Patrick Muchmore|W|3:35 PM - 5:30 PM|PAC|REI|Component
+Music and (almost) Everything All at Once|MUSC 5276 U    1|Spring|0|Patrick Muchmore|W|3:35 PM - 5:30 PM|PAC|REI|Component
+Sounding Voices and Voicing Sounds: Musical and Sonic Interventions|MUSC 5277 U    1|Spring|0|Nicholas Higgins|M  R|2:00 PM - 3:25 PM|MFLD|34|Component
+Punk|MUSC 5278 U    1|Spring|0|Martin Goldray|W|3:35 PM - 5:30 PM|MFLD|1|Component
+The Blues and Beyond|MUSC 5282 U    1|Year|0|Glenn Alexander|M|11:05 AM - 12:30 PM|MFLD|01B|Component
+Vocal Chamber Ensemble|MUSC 5305 U    1|Year|0|Patrick Romano|M  R|5:30 PM - 7:00 PM|MFLD|1|Component
+Saxophone Ensemble|MUSC 5308 U    1|Spring|0|John Isley| |-| | |Component
+The Blues Ensemble|MUSC 5310 U    1|Year|0|Glenn Alexander|T|7:00 PM - 8:30 PM|MFLD|01B|Component, section 1
+The Blues Ensemble|MUSC 5310 U    2|Year|0|Glenn Alexander|W|7:00 PM - 8:30 PM|MFLD|01B|Component
+The Blues Ensemble|MUSC 5310 U    3|Year|0|Glenn Alexander|W|8:30 PM - 10:00 PM|MFLD|01B|Component
+The Blues Ensemble|MUSC 5310 U    4|Year|0|Bill Moring|R|7:00 PM - 8:30 PM|MFLD|01B|Component - Section 4
+The Blues Ensemble|MUSC 5310 U    5|Year|0|Bill Moring|R|8:30 PM - 10:00 PM|MFLD|01B|Component -- Section 5
+Jazz Colloquium|MUSC 5313 U    1|Year|0|Glenn Alexander|M|7:00 PM - 8:30 PM|MFLD|01B|Component, section 1,
+Jazz Colloquium|MUSC 5313 U    2|Year|0|Glenn Alexander|M|8:30 PM - 10:00 PM|MFLD|01B|Component, section 2
+Jazz Performance &amp; Improvisation|MUSC 5314 U    1|Year|0|Glenn Alexander|M|2:00 PM - 3:25 PM|MFLD|01B|Component
+Jazz Vocal Ensemble|MUSC 5315 U    1|Year|0|Glenn Alexander|M|5:30 PM - 7:00 PM|MFLD|01B|Component, section 1
+Jazz Vocal Ensemble|MUSC 5315 U    2|Year|0|Glenn Alexander|T|5:30 PM - 7:00 PM|MFLD|01B|Component, section 2
+Jazz Vocal Ensemble|MUSC 5315 U    3|Year|0|Bill Moring|T|5:30 PM - 7:00 PM|MFLD|01B|Component, section 3
+Iraqi Maqam Ensemble|MUSC 5320 U    1|Spring|0|Hamid Al-Saadi|M|3:35 PM - 5:00 PM|MFLD|21|Component
+Jazz Vocal Seminar|MUSC 5330 U    1|Year|0|Thomas Young|T|12:00 PM - 1:00 PM|MFLD|3|Component
+Voice Studio Class|MUSC 5335 U    1|Year|0|Mary Phillips|W|4:00 PM - 5:00 PM|MFLD|23|Component, section 1
+Voice Studio Class|MUSC 5335 U    2|Year|0|Kirsten Brown|T|3:00 PM - 4:00 PM|MFLD|23|Component, section 2
+Voice Studio Class|MUSC 5335 U    3|Year|0|Thomas Young|M|4:00 PM - 5:00 PM|MFLD|3|Component, section 3
+Your Voice: The Art and Science|MUSC 5342 U    1|Fall|0|Kirsten Brown|R|2:00 PM - 3:25 PM|MFLD|23|Component
+Gamelan Angklung Chandra Buana|MUSC 5350 U    1|Fall|0|Nicholas Higgins|R|7:00 PM - 9:00 PM|MFLD|34|Component
+West African Percussion Ensemble|MUSC 5351 U    1|Spring|0|Andrew Algire|R|7:00 PM - 9:00 PM|MFLD|1|Component
+West African Percussion Ensemble|MUSC 5351 U    1|Spring|0|Nicholas Higgins| |-| | | 
+African Classics of the Post-Colonial Era|MUSC 5352 U    1|Fall|0|Andrew Algire|W|5:30 PM - 7:30 PM|MFLD|01b|Component
+Experimental Music Improvisation|MUSC 5369 U    1|Fall|0|John Yannelli|T|3:35 PM - 5:30 PM|MFLD|CH|Component
+Experimental Music Improvisation|MUSC 5369 U    1|Spring|0|John Yannelli|T|3:35 PM - 5:30 PM|MFLD|CH|Component
+Chamber Music|MUSC 5370 U    1|Year|0|Barbara Mort-Zieff| |-|MFLD| |Component
+Conducting|MUSC 5373 U    1|Spring|0|Martin Goldray| |-| | |Component
+Guitar Class|MUSC 5375 U    1|Year|0|William Anderson| |-| | |Component
+Folk Ensemble|MUSC 5379 U    1|Spring|0|William Anderson|M|5:30 PM - 7:00 PM|MFLD|34|Component
+Guitar Ensemble: Acoustic Beatles|MUSC 5381 U    1|Fall|0|William Anderson|M|5:30 PM - 7:00 PM|MFLD|34|Component
+Keyboard Lab|MUSC 5382 U    1|Year|0|Barbara Mort-Zieff|R|9:30 AM - 10:55 AM|MFLD|CH|Component
+Senior Recital|MUSC 5390 U    1|Spring|0|Music Faculty| |-| | |Component
+Concert Attendance/MusicTuesdays|MUSC 5398 U    1|Fall|0|John Yannelli|T|1:30 PM - 3:00 PM|PAC|REI|Component (Required)
+Concert Attendance|MUSC 5399 U    1|Spring|0|John Yannelli|T|1:30 PM - 3:00 PM|PAC|REI|Component (required)
+FYS:Philosophy as/and/of Literature|PHIL 1022 F    1|Year|10|Scott Shushan|T|10:15 AM - 11:15 AM|TWEED|LR|Group collaborative
+FYS:Philosophy as/and/of Literature|PHIL 1022 F    1|Year|10|Scott Shushan|R|3:35 PM - 6:30 PM|ANDH|103|First Year Studies
+Philosophy Through Film|PHIL 2021 L    1|Fall|5|Scott Shushan|T|3:35 PM - 4:30 PM|DL|04|Group conference, meets weekly
+Philosophy Through Film|PHIL 2021 L    1|Fall|5|Scott Shushan|T|11:30 AM - 12:25 PM|DL|04|Group conference, meets weekly
+Philosophy Through Film|PHIL 2021 L    1|Fall|5|Scott Shushan|M|3:35 PM - 4:30 PM|DL|LR|Group conference, meets weekly
+Philosophy Through Film|PHIL 2021 L    1|Fall|5|Scott Shushan|M|1:30 PM - 3:25 PM|SC|103|Open
+Intro Social Theory: Philosophical Tools for Critical Social Analysis|PHIL 2024 L    1|Year|10|David Peritz|W|3:35 PM - 4:30 PM|SWIN|102|Group conference, meets weekly
+Intro Social Theory: Philosophical Tools for Critical Social Analysis|PHIL 2024 L    1|Year|10|David Peritz|W|2:00 PM - 2:55 PM|SWIN|102|Group conference, meets weekly
+Intro Social Theory: Philosophical Tools for Critical Social Analysis|PHIL 2024 L    1|Year|10|David Peritz|W|11:05 AM - 1:00 PM|PAC|3|Open
+Philosophy and the Founding of the Modern World|PHIL 2027 L    1|Year|10|Abraham Anderson|W|5:10 PM - 6:05 PM|BATES|206|Group conference
+Philosophy and the Founding of the Modern World|PHIL 2027 L    1|Year|10|Abraham Anderson|M|5:10 PM - 6:05 PM|BATES|206|Group conference
+Philosophy and the Founding of the Modern World|PHIL 2027 L    1|Year|10|Abraham Anderson|M W|3:35 PM - 5:00 PM|BATES|206|Open
+Ancient Philosophies as Ways of Living in Truth|PHIL 3021 R    1|Fall|5|Charles Snyder|M W|9:30 AM - 10:55 AM|BATES|015|Open
+Philosophy and/as/of Literature|PHIL 3025 R    1|Year|10|Scott Shushan|R|3:35 PM - 6:30 PM|ANDH|103|Open
+Literature, Art, &amp;  (Environmental) Ethical Attention|PHIL 3048 R    1|Spring|5|Sarah DiMaggio|T R|3:35 PM - 5:00 PM|LIBR|E2|Open
+Human/Nature: Philosophical Perspectives|PHIL 3119 R    1|Spring|5|Roy Ben-Shai|T|3:35 PM - 6:30 PM|ANDH|103|Open
+Ethics of Eating in the Age of Climate Change|PHIL 3217 R    1|Fall|5|Sarah DiMaggio|T R|3:35 PM - 5:00 PM|SLON|SR|Open
+Descartes and Princess Elizabeth: From Metaphysics to Morals|PHIL 3332 R    1|Fall|5|Abraham Anderson|T|3:35 PM - 6:30 PM|TITS|LR|Open
+Kant's Political Philosophy|PHIL 3521 R    1|Spring|5|Abraham Anderson|T|3:35 PM - 6:30 PM|TITS|LR|Sophomores and above
+Reflections from Damaged Life: Adorno and Critical Theory|PHIL 3623 R    1|Spring|5|Scott Shushan|M|3:35 PM - 6:30 PM|ANDH|103|Intermediate
+Capitalism and Schizophrenia: A Thousand Plateaus|PHIL 3730 R    1|Fall|5|Roy Ben-Shai|T|3:35 PM - 6:30 PM|ANDH|103|Intermediate
+First Year Studies in Physics It's About Time|PHYS 1023 F    1|Fall|5|Merideth Frey|F|11:30 AM - 12:25 PM|SC|116|Group conference/Lab
+First Year Studies in Physics It's About Time|PHYS 1023 F    1|Fall|5|Merideth Frey|F|2:00 PM - 2:55 PM|SC|116|Group conference/Lab
+First Year Studies in Physics It's About Time|PHYS 1023 F    1|Fall|5|Merideth Frey|T R|9:30 AM - 10:55 AM|BATES|203|First Year Studies
+FYS: Nuclear Magnetic Resonance  Research Seminar|PHYS 1025 F    1|Spring|5|Merideth Frey|T R|9:30 AM - 10:55 AM|SC|116|First Year Studies
+It's About Time|PHYS 2052 L    1|Fall|5|Merideth Frey|F|2:00 PM - 2:55 PM|SC|116|Group conference/Lab
+It's About Time|PHYS 2052 L    1|Fall|5|Merideth Frey|F|11:30 AM - 12:25 PM|SC|116|Group conference/Lab
+It's About Time|PHYS 2052 L    1|Fall|5|Merideth Frey|T R|9:30 AM - 10:55 AM|BATES|203|Open
+Nuclear Magnetic Resonance Research Seminar|PHYS 3053 R    1|Spring|5|Merideth Frey|T R|9:30 AM - 10:55 AM|SC|116|Open
+Classical Mechanics (Calculus-Based General Physics)|PHYS 3101 R    1|Fall|5|Bruce Alphenaar|F|9:30 AM - 10:55 AM|BATES|206|Lab
+Classical Mechanics (Calculus-Based General Physics)|PHYS 3101 R    1|Fall|5|Bruce Alphenaar|W|11:05 AM - 12:30 PM|BATES|206|Open
+Classical Mechanics (Calculus-Based General Physics)|PHYS 3101 R    1|Fall|5|Bruce Alphenaar|W|3:35 PM - 5:30 PM|SC|116|Lab
+Electromagnetism and Light (Calculus-Based General Physics)|PHYS 3102 R    1|Spring|5|Bruce Alphenaar|F|9:30 AM - 10:55 AM|BATES|206|Open
+Electromagnetism and Light (Calculus-Based General Physics)|PHYS 3102 R    1|Spring|5|Bruce Alphenaar|W|11:05 AM - 12:30 PM|BATES|206|Open
+Electromagnetism and Light (Calculus-Based General Physics)|PHYS 3102 R    1|Spring|5|Bruce Alphenaar|W|3:35 PM - 5:30 PM|SC|116|Lab
+Introduction to Mechanics: General Physics without Calculus|PHYS 3200 R    1|Fall|5|Merideth Frey|W|11:05 AM - 12:30 PM|SC|116|Open
+Introduction to Mechanics: General Physics without Calculus|PHYS 3200 R    1|Fall|5|Merideth Frey|F|9:30 AM - 10:55 AM|SC|116| 
+Introduction to Mechanics: General Physics without Calculus|PHYS 3200 R    1|Fall|5|Merideth Frey|R|1:30 PM - 3:25 PM|SC|116|lAB
+Intro Electromagnetism, Light and Modern Physics (w/o Calc(|PHYS 3201 R    1|Spring|5|Merideth Frey|R|1:30 PM - 3:25 PM|SC|116|Lab
+Intro Electromagnetism, Light and Modern Physics (w/o Calc(|PHYS 3201 R    1|Spring|5|Merideth Frey|W|11:05 AM - 12:30 PM|SC|116|Open
+Intro Electromagnetism, Light and Modern Physics (w/o Calc(|PHYS 3201 R    1|Spring|5|Merideth Frey|F|9:30 AM - 10:55 AM|SC|116| 
+Thermal Physics|PHYS 3522 R    1|Fall|5|Melvin Irizarry-Gelpi|T R|9:30 AM - 10:55 AM|BATES|206|Open w/instructor permission
+FYS :Making Democracy Work:  Politics, Philosophy, Reform|POLI 1025 F    1|Year|10|David Peritz|R|11:00 AM - 12:00 PM|HEIM|212|Group conference
+FYS :Making Democracy Work:  Politics, Philosophy, Reform|POLI 1025 F    1|Year|10|David Peritz|T|9:30 AM - 10:55 AM|HEIM|211|First Year Studies
+Intro Social Theory: Philosophical Tools for Critical Social Analysis|POLI 2024 L    1|Year|10|David Peritz|W|11:05 AM - 1:00 PM|PAC|3|Open
+Intro Social Theory: Philosophical Tools for Critical Social Analysis|POLI 2024 L    1|Year|10|David Peritz|W|2:00 PM - 2:55 PM|SWIN|102|Group conference, meets weekly
+Intro Social Theory: Philosophical Tools for Critical Social Analysis|POLI 2024 L    1|Year|10|David Peritz|W|3:35 PM - 4:30 PM|SWIN|102|Group conference, meets weekly
+Introductn International Relations|POLI 2030 L    1|Fall|5|Yekaterina Oziashvili|M|1:00 PM - 1:55 PM|SLON|SR|Group conference
+Introductn International Relations|POLI 2030 L    1|Fall|5|Yekaterina Oziashvili|M  R|11:05 AM - 12:30 PM|HEIM|202|Open
+Introductn International Relations|POLI 2030 L    1|Fall|5|Yekaterina Oziashvili|R|1:00 PM - 1:55 PM|SLON|SR|Group conference
+Polarization|POLI 3020 R    1|Fall|5|Samuel Abrams|M|9:00 AM - 10:55 AM|SC|201|Open
+Civil Unrest and the American Media|POLI 3067 R    1|Fall|5|Andrew Rosenthal|M  R|11:05 AM - 12:30 PM|HEIM|135|Open
+All Politics is Local!|POLI 3073 R    1|Spring|5|Emmaia Gelman|T R|7:00 PM - 8:25 PM|ANDH|103|Open
+Intervention and Justice|POLI 3215 A    1|Fall|5|Elke Zuern| |-|OFFCM| |Bedford Hills
+Intervention and Justice|POLI 3215 R    1|Spring|5|Elke Zuern|W|1:00 PM - 3:25 PM|WEST|104|Open
+International Politics and Ethnic Conflict|POLI 3426 R    1|Spring|5|Yekaterina Oziashvili|M  R|2:00 PM - 3:25 PM|SC|101|Open
+State Terror and Terrorism|POLI 3711 R    1|Spring|5|Elke Zuern|T|3:35 PM - 6:00 PM|ANDH|101|Intermediate
+Foundations in Workplace Culture and Well-Being|PRAC 2103 L    1|Fall|3|Meghan Jablonski|W|6:30 PM - 9:30 PM|ONLIN| |Sophomores and above (3 CR)
+Foundations in Workplace Culture and Well-Being|PRAC 2105 L    1|Fall|5|Meghan Jablonski|W|6:30 PM - 9:30 PM|ONLIN| |Sophomores and above (5 CR)
+Building a Professional Identity|PRAC 2123 L    1|Spring|3|Meghan Jablonski|W|6:30 PM - 9:30 PM|ONLIN| |Sophomores and above (3 CR)
+Building a Professional Identity|PRAC 2125 L    1|Spring|5|Meghan Jablonski|W|6:30 PM - 9:30 PM|OFFCM| |Sophomores and above (5 CR)
+SLCeeds: Passion Project Launch Pad|PRAC 3035 R    1|Spring|3|Roger Osorio|M  R|11:05 AM - 12:30 PM|BATES|04|Open
+FYS: The Senses: Art and Science|PSYC 1013 F    1|Year|10|Elizabeth Johnston|T|11:05 AM - 1:00 PM|ANDH|103|First Year Studies
+FYS: The Senses: Art and Science|PSYC 1013 F    1|Year|10|Elizabeth Johnston|F|11:05 AM - 1:00 PM|MORL|LAB| 
+FYS: The Senses: Art and Science|PSYC 1013 F    1|Year|10|Elizabeth Johnston|W|1:00 PM - 3:00 PM|LIBR|PILLW|Group collaborative
+FYS: The Social Psychology of Immigration|PSYC 1020 F    1|Year|10|Gina Philogene|T  F|11:05 AM - 12:30 PM|MORL|CL|First Year Studies
+Introduction to Social Psychology|PSYC 2021 L    1|Year|10|Gina Philogene|W|2:00 PM - 2:55 PM|PAC|1|Group confernce
+Introduction to Social Psychology|PSYC 2021 L    1|Year|10|Gina Philogene|W|10:00 AM - 10:55 AM|PAC|1|Group confernce
+Introduction to Social Psychology|PSYC 2021 L    1|Year|10|Gina Philogene|T R|9:30 AM - 10:55 AM|PAC|3|Open
+The Origins of Language:What Babies Animals, and Machines Can Tell Us|PSYC 2038 L    1|Fall|5|Samantha Floyd|W|3:35 PM - 5:30 PM|TITS|LH|Open
+The Origins of Language:What Babies Animals, and Machines Can Tell Us|PSYC 2038 L    1|Fall|5|Samantha Floyd|M|11:05 AM - 12:30 PM|SC|101|Group conference, meets weekly
+The Origins of Language:What Babies Animals, and Machines Can Tell Us|PSYC 2038 L    1|Fall|5|Samantha Floyd|M|2:00 PM - 3:25 PM|SLON|SR|Group conference, meets weekly
+The Origins of Language:What Babies Animals, and Machines Can Tell Us|PSYC 2038 L    1|Fall|5|Samantha Floyd|W|11:05 AM - 12:30 PM|PAC|2|Group conference, meets weekly
+Psychology of Children's Television|PSYC 2042 L    1|Fall|5|Jamie Krenn|R|1:05 PM - 2:00 PM|BATES|015|Group conference, meets weekly
+Psychology of Children's Television|PSYC 2042 L    1|Fall|5|Jamie Krenn|R|12:05 PM - 1:00 PM|BATES|015|Group conference, meets weekly
+Psychology of Children's Television|PSYC 2042 L    1|Fall|5|Jamie Krenn|R|11:05 AM - 12:00 PM|BATES|015|Group conference, meets weekly
+Psychology of Children's Television|PSYC 2042 L    1|Fall|5|Jamie Krenn|R|9:30 AM - 10:55 AM|TITS|LH|Open
+Art and Visual Perception|PSYC 2062 L    1|Spring|5|Elizabeth Johnston|W|11:05 AM - 12:30 PM|TITS|LH|Open
+Art and Visual Perception|PSYC 2062 L    1|Spring|5|Elizabeth Johnston|R|9:30 AM - 10:55 AM|ANDH|104|Group conference, meets weekly
+Art and Visual Perception|PSYC 2062 L    1|Spring|5|Elizabeth Johnston|R|2:00 PM - 3:25 PM|ANDH|104|Group conference, meets weekly
+Art and Visual Perception|PSYC 2062 L    1|Spring|5|Elizabeth Johnston|R|4:00 PM - 5:25 PM|ANDH|104|Group conference, meets weekly
+Technology &amp; Human Development|PSYC 2074 L    1|Spring|5|Jamie Krenn|R|1:05 PM - 2:00 PM|BATES|015|Group conference, meets weekly
+Technology &amp; Human Development|PSYC 2074 L    1|Spring|5|Jamie Krenn|R|12:05 PM - 1:00 PM|BATES|015|Group conference, meets weekly
+Technology &amp; Human Development|PSYC 2074 L    1|Spring|5|Jamie Krenn|R|11:05 AM - 12:00 PM|BATES|015|Group conference, meets weekly
+Technology &amp; Human Development|PSYC 2074 L    1|Spring|5|Jamie Krenn|R|9:30 AM - 10:55 AM|TITS|LH|Open
+Finding Happiness &amp; Keeping It: Insights Psychology &amp; Neuroscience|PSYC 2075 L    1|Fall|5|Maia Pujara|M W|3:35 PM - 5:00 PM|SC|103|Open
+Finding Happiness &amp; Keeping It: Insights Psychology &amp; Neuroscience|PSYC 2075 L    1|Fall|5|Maia Pujara|T|3:35 PM - 4:30 PM|HEIM|111|Group conference
+Finding Happiness &amp; Keeping It: Insights Psychology &amp; Neuroscience|PSYC 2075 L    1|Fall|5|Maia Pujara|T|4:35 PM - 5:30 PM|HEIM|111|Group conference
+Sex is Not a Natural Act: Social Science Exploratns-Sex/Sexualities|PSYC 2084 L    1|Fall|5|Linwood Lewis|T  F|11:05 AM - 12:30 PM|HEIM|202|Open
+Sex is Not a Natural Act: Social Science Exploratns-Sex/Sexualities|PSYC 2084 L    1|Fall|5|Linwood Lewis|W|11:05 AM - 12:00 PM|SC|101|Group conference
+Sex is Not a Natural Act: Social Science Exploratns-Sex/Sexualities|PSYC 2084 L    1|Fall|5|Linwood Lewis|R|2:00 PM - 2:55 PM|ANDH|103|Group conference
+The Stories We Could Tell: Theatre through Memory|PSYC 3030 A    1|Spring|5|Christine Farrell|W|9:30 AM - 12:30 PM|OFFCM| |Open
+Cognition through the Lens of Neuropsychology|PSYC 3119 R    1|Spring|5|Maia Pujara|T R|3:35 PM - 5:00 PM|SHEFF|02|Open
+Culture and Mental Health|PSYC 3151 R    1|Fall|5|Deanna Barenboim|T  F|11:05 AM - 12:30 PM|TITS|LR|Open
+The Social Ecology of Caregiving|PSYC 3203 R    1|Spring|5|Magdalena Ornstein-Sloan|W|2:00 PM - 4:30 PM|DL|LR|Open
+How Humans Learn Language|PSYC 3205 R    1|Spring|5|Samantha Floyd|M W|3:35 PM - 5:00 PM|SC|201|Open
+Food Environments, Health and Social Justice|PSYC 3235 R    1|Fall|5|Magdalena Ornstein-Sloan|W|2:00 PM - 4:30 PM|SHEFF|22|Open
+Immigration and Identity|PSYC 3237 R    1|Spring|5|Deanna Barenboim|W|11:05 AM - 1:00 PM|TITS|LR|Intermediate
+Speaking the Unspeakable: Trauma, Emotion, Cognition, and Language|PSYC 3456 R    1|Fall|5|Emma Forrester|M|1:30 PM - 3:25 PM|TITS|LR|Intermediate
+Mind-Body Interactions: Psychoneuroimmunology|PSYC 3513 R    1|Fall|5|Maia Pujara|M  R|11:05 AM - 12:30 PM|SC|201|Intermediate
+Mind-Body Interactions: Psychoneuroendocrinology|PSYC 3514 R    1|Spring|5|Maia Pujara|W|3:35 PM - 6:00 PM|ANDH|103|Intermediate
+Concepts of the Mind: How Language &amp;  Culture Challenge Cognitive Sci|PSYC 3651 R    1|Fall|5|Samantha Floyd|T R|3:35 PM - 5:30 PM|LIBR|E2|Intermediate
+The Power and Meanings of Play in Children's Lives|PSYC 3664 R    1|Fall|5|Cynthia Parson-Puccio|W|1:30 PM - 3:25 PM|WREX|DR|Intermediate/Advanced
+Intersectionality Research Seminar|PSYC 3755 R    1|Year|10|Linwood Lewis|W|3:35 PM - 5:30 PM|PAC|1|Intermediate/Advanced
+Children's Literature:Developmental and Literary Perspectives|PSYC 3762 R    1|Spring|5|Charlotte Doyle|F|10:00 AM - 12:30 PM|SLON|SR|Sophomores and above
+Bullies and Their Victims: Social &amp; Physical Aggression -Child/Adoles|PSYC 3766 R    1|Spring|5|Carl Barenboim|T|3:35 PM - 5:30 PM|ONLIN| |Intermediate/Advanced
+A Window Into the Growing Mind: Research Methods Cognitive Devel|PSYC 3770 R    1|Spring|5|Samantha Floyd|T R|3:35 PM - 5:00 PM|LIBR|E1|Intermediate/Advanced
+Human Development in Context|PSYC 3808 R    1|Spring|5|Linwood Lewis|W|7:00 PM - 9:00 PM|HEIM|208|Intermediate/Advanced
+Social Development|PSYC 3809 R    1|Fall|5|Carl Barenboim|T|3:35 PM - 5:30 PM|ONLIN| |Open
+Perspectives on the Creative Process|PSYC 3857 R    1|Fall|5|Charlotte Doyle|W F|9:30 AM - 10:55 AM|SLON|SR|Intermediate
+Theories of Development|PSYC 4085 R    1|Fall|5|Kim Ferguson|W|7:00 PM - 9:00 PM|SLON|2|Open to Juniors and Seniors
+Research Methods for Advocacy|PSYC 4210 R    1|Fall|3|Kim Ferguson| |-|ONLIN| |Open to Juniors and Seniors
+Early Intervention Approaches  for Young Children and  Families|PSYC 4220 A    1|Spring|5|Cynthia Parson-Puccio|W|1:30 PM - 3:25 PM|WREX|DR|Advanced
+Models of Health Advocacy|PSYC 4371 R    1|Fall|3|Linwood Lewis| |-|ONLIN| |Open to Juniors and Seniors
+Statistics for Health Advocacy|PSYC 4451 R    1|Fall|3|Marybec Griffin| |-|ONLIN| |Open to Juniors and Seniors
+Psychology Advanced Research Seminar|PSYC 4500 R    1|Fall|3|Maia Pujara|W|12:35 PM - 2:00 PM|SC|201|Intermediate/Advanced
+Psychology Advanced Research Seminar|PSYC 4500 R    1|Spring|3|Maia Pujara|T|12:45 PM - 1:30 PM| | |Lab
+Psychology Advanced Research Seminar|PSYC 4500 R    1|Spring|3|Maia Pujara|W|12:35 PM - 2:00 PM|SC|201|Intermediate/Advanced
+Environmental Policy, Racism, and Social Justice|PUBP 2035 L    1|Year|10|Jessica Poling|T  F|11:05 AM - 12:30 PM|SC|103|Open
+Environmental Policy, Racism, and Social Justice|PUBP 2035 L    1|Year|10|Jessica Poling|W|11:05 AM - 12:00 PM|BATES|015|Group conference
+Environmental Policy, Racism, and Social Justice|PUBP 2035 L    1|Year|10|Jessica Poling|W|1:00 PM - 1:55 PM|BATES|015|Group conference
+Social Movements and Powerful Art: Aesthetics of Authority/Resistance|PUBP 3129 R    1|Spring|5|Jessica Poling|T R|3:35 PM - 5:00 PM|SHEFF|01|Open
+Public Policy Tutorial|PUBP 3971 T    1|Fall|5|. SLC Oxford Program| |-| | |Oxford Program
+FYS: Islam, Muslims and America|RLGN 1025 F    1|Year|10|Kristin Sands|M  R|11:05 AM - 12:30 PM|TITS|LR|First Year Studies
+Jalal al-Din Rumi: Poet, Storyteller and Mystic|RLGN 2011 L    1|Fall|5|Kristin Sands|W|11:05 AM - 12:30 PM|HEIM|208|Open
+Jalal al-Din Rumi: Poet, Storyteller and Mystic|RLGN 2011 L    1|Fall|5|Kristin Sands|W|2:00 PM - 3:25 PM|TITS|LR|Group conference, meets weekly
+Jalal al-Din Rumi: Poet, Storyteller and Mystic|RLGN 2011 L    1|Fall|5|Kristin Sands|R|2:00 PM - 3:25 PM|TITS|LR|Group conference, meets weekly
+The Buddhist Tradition  in India, Tibet, &amp; SE Asia.|RLGN 2024 L    1|Fall|5|T. Griffith Foulk|T|11:05 AM - 11:55 AM|PAC|3|Group conference
+The Buddhist Tradition  in India, Tibet, &amp; SE Asia.|RLGN 2024 L    1|Fall|5|T. Griffith Foulk|M  R|11:05 AM - 12:30 PM|TITS|LH|Open
+The Buddhist Tradition  in India, Tibet, &amp; SE Asia.|RLGN 2024 L    1|Fall|5|T. Griffith Foulk|T|3:35 PM - 4:30 PM|PAC|2|Group conference
+Readings in Early Christianity: The Synoptic Gospels|RLGN 3005 R    1|Fall|5|Cameron Afzal|M W|9:30 AM - 10:55 AM|TITS|LR|Open
+Introduction to Ancient Greek Religion and Society|RLGN 3042 R    1|Fall|5|Cameron Afzal|T|3:35 PM - 5:30 PM|HEIM|208|Open
+Chan and Zen Buddhism|RLGN 3211 R    1|Year|10|T. Griffith Foulk|M W|3:35 PM - 5:00 PM|ANDH|104|Open
+Documenting Jewish Lives: Past as Prologue|RLGN 3308 R    1|Fall|5|Hannah Zaves-Greene|M  R|2:00 PM - 3:25 PM|SWIN|102|Open
+Jewish Mystics, Rabble-Rousers, and Heretics|RLGN 3317 R    1|Spring|5|Hannah Zaves-Greene|M  R|2:00 PM - 3:25 PM|SWIN|102|Open
+Jews of New York|RLGN 3320 R    1|Spring|5|Hannah Zaves-Greene|T R|3:35 PM - 5:00 PM|SWIN|102|Open
+People of the Book: Jews and Literature|RLGN 3323 R    1|Fall|5|Hannah Zaves-Greene|T R|3:35 PM - 5:00 PM|SWIN|102|Open
+Invisible Beings and Fantastical Worlds in Islam|RLGN 3406 R    1|Spring|5|Kristin Sands|W|1:30 PM - 3:25 PM|TITS|LR|Open
+FYS: Beginning Russian|RUSS 1011 F    1|Year|10|Melissa Frazier|M W|9:00 AM - 10:55 AM|ANDH|103|First Year Studies
+Beginning Russian|RUSS 3001 R    1|Year|10|Melissa Frazier|M W|9:00 AM - 10:55 AM|ANDH|103|Open
+Intermediate Russian|RUSS 3510 R    1|Year|10|Melissa Frazier|T R|9:00 AM - 10:55 AM|DL|04|Intermediate
+Science and Math Program|SCMA 4499 P    1|Spring|0|Science and Math Faculty| |-| | |May register Add/Drop ONLY
+Sociology of Global Inequalities|SOCI 2025 L    1|Spring|5|Parthiban Muniandy|T|11:05 AM - 12:00 PM|SWIN|102|Group conference
+Sociology of Global Inequalities|SOCI 2025 L    1|Spring|5|Parthiban Muniandy|W|2:00 PM - 2:55 PM|DL|04|Group conference
+Sociology of Global Inequalities|SOCI 2025 L    1|Spring|5|Parthiban Muniandy|M W|9:30 AM - 10:55 AM|TITS|LH|Open
+Environmental Policy, Racism, and Social Justice|SOCI 2035 L    1|Year|10|Jessica Poling|T  F|11:05 AM - 12:30 PM|SC|103|Open
+Environmental Policy, Racism, and Social Justice|SOCI 2035 L    1|Year|10|Jessica Poling|W|11:05 AM - 12:00 PM|BATES|015|Group conference
+Environmental Policy, Racism, and Social Justice|SOCI 2035 L    1|Year|10|Jessica Poling|W|1:00 PM - 1:55 PM|BATES|015|Group conference
+Sociological Theory|SOCI 2062 L    1|Fall|5|Aysegul Kayagil|W|3:35 PM - 4:30 PM|BATES|203|Group conference
+Sociological Theory|SOCI 2062 L    1|Fall|5|Aysegul Kayagil|R|3:35 PM - 4:30 PM|BATES|203|Group conference
+Sociological Theory|SOCI 2062 L    1|Fall|5|Aysegul Kayagil|R|11:05 AM - 11:55 AM|BATES|203|Group conference
+Sociological Theory|SOCI 2062 L    1|Fall|5|Aysegul Kayagil|M W|2:00 PM - 3:25 PM|BATES|203|Open
+Race and Slavery in Middle Eastand North Africa|SOCI 3044 R    1|Spring|5|Aysegul Kayagil|M  R|2:00 PM - 3:25 PM|LIBR|PILLW|Open
+Race and Slavery in Middle East and North Africa|SOCI 3044 R    1|Fall|5|Aysegul Kayagil|M W|11:05 AM - 12:30 PM|BATES|04|Open
+Bad Neighbors: Sociology of Difference, Diversity in the City|SOCI 3047 R    1|Spring|5|Parthiban Muniandy|R|3:35 PM - 5:30 PM|DL|LR|Open
+History and Theory: Anti-Colonial Thought in Contemporary Levant|SOCI 3126 R    1|Spring|5|Aysegul Kayagil|W|1:00 PM - 3:25 PM|SHEFF|22|Sophomores and above
+Social Movements and Powerful Art: Aesthetics of Authority/Resistance|SOCI 3129 R    1|Spring|5|Jessica Poling|T R|3:35 PM - 5:00 PM|SHEFF|01|Open
+Sociology of Education|SOCI 3145 R    1|Fall|5|Fanon Howell|M|7:00 PM - 9:30 PM|HEIM|208|Open
+Sociology of the Body|SOCI 3403 R    1|Fall|5|Jessica Poling|T R|3:35 PM - 5:00 PM|SHEFF|01|Sophomores and above
+Beginning Spanish|SPAN 3001 R    1|Year|10|Eduardo Lago|M|3:00 PM - 3:55 PM|MORL|CL|Group conference
+Beginning Spanish|SPAN 3001 R    1|Year|10|Eduardo Lago|M|2:00 PM - 2:55 PM|MORL|CL|Group conference
+Beginning Spanish|SPAN 3001 R    1|Year|10|Eduardo Lago|T R|3:35 PM - 5:00 PM|TWEED|LR|Open
+Advanced Beginning Spanish: Cultures in Context|SPAN 3110 R    1|Year|10|Dana Khromov|M  R|2:00 PM - 3:25 PM|PAC|1|Open
+Intermediate Spanish I: Contemporar Issues in Latin America|SPAN 3501 R    1|Year|10|Danielle Dorvil|T R|9:30 AM - 10:55 AM|SLON|SR|Intermediate
+Advanced Intermediate Spanish The Caribbean Beyond the Tropics|SPAN 3873 R    1|Year|10|Dana Khromov|M  R|11:05 AM - 12:30 PM|PAC|1|Intermediate
+Advanced Spanish: Black Presence/Representatiuons Latin-Am Cinema|SPAN 4015 R    1|Spring|5|Danielle Dorvil|M W|9:30 AM - 10:55 AM|SLON|2|Advanced
+Advanced Spanish: Latin American Female Artistic Productions|SPAN 4020 R    1|Fall|5|Danielle Dorvil|M W|9:30 AM - 10:55 AM|SLON|2|Advanced
+FYS: The Art of Comic Performance:|THEA 1019 F    1|Year|10|Christine Farrell|M  R|11:05 AM - 12:30 PM|PAC|FVR|First Year Studies
+First Year Studies:  Power Plays: Theatre in Action|THEA 1028 F    1|Year|10|Kevin Confoy|T|9:00 AM - 10:55 AM|PAC|CANNO|First Year Studies
+The Stories We Could Tell Theatre through Memory|THEA 3030 A    1|Spring|5|Christine Farrell|W|9:30 AM - 12:30 PM|OFFCM| |Open (at Wartburg)
+Theatre Program - Two/Thirds|THEA 4498 P    1|Spring|5|Caden Manson| |-| | |Reg for Comp thru Theatre Prog
+Theatre Program - Two/Thirds|THEA 4498 P    1|Fall|5|Caden Manson| |-| | |Reg for Comp thru Theatre Prog
+Theatre Program|THEA 4499 P    1|Year|10|Caden Manson| |-| | |Reg for Comp thru Theatre Prog
+Cameras and Performance|THEA 5317 U    1|Year|0|itziar Barrio Diez|F|2:00 PM - 5:30 PM|PAC|FVR|Component
+Think Tank|THEA 5325 U    1|Year|0|Lauren Reinhard| |-| | |Theater Program Requirement
+Actor's Workshop|THEA 5341 U    1|Year|0|Marcella Murray|F|9:00 AM - 1:00 PM|PAC|FVR|Component, section 1
+Actor's Workshop|THEA 5341 U    2|Year|0|Marcella Murray|M W|1:30 PM - 3:25 PM|ROTH|TH|Component, section 2
+Actor's Workshop: Acting the Kilroys|THEA 5341 U    3|Year|0|Kevin Confoy|M WR|3:35 PM - 5:30 PM|PAC|CANNO|Component, section 3
+Actor's Workshop: Craft and Character|THEA 5341 U    4|Year|0|Lauren Reinhard|T|11:05 AM - 1:00 PM|PAC|SWW|Component, section 4
+The Articulate Instrument: Suzuki Training for the Actor|THEA 5347 U    1|Year|0|Matthew Mastromatteo|M W|9:00 AM - 10:55 AM|PAC|REI|Component
+Sound Design|THEA 5530 U    1|Year|0|Glenn Potter-Takata|T|3:35 PM - 5:30 PM|PAC|FVR|Component
+Advanced Acting MFA Studio:Contemporary Scene Study|THEA 5551 U    1|Year|0|Keith Manning|F|10:00 AM - 1:00 PM|PAC|OPEN|Component
+Acting &amp; Directing  for the Camera|THEA 5560 U    1|Year|0|Keith Manning|F|2:00 PM - 6:00 PM|PAC|OPEN|Component
+Lighting Design I|THEA 5566 U    1|Year|0|Monee Stamp|T|3:35 PM - 5:30 PM|PAC|DL|Component
+Lighting Design II|THEA 5568 U    1|Year|0|Monee Stamp|R|3:35 PM - 5:30 PM|PAC|DL|Component
+Scenography I|THEA 5581 U    1|Year|0|Jee an Jung|W|3:35 PM - 5:30 PM|PAC|DL|Component
+Scenography II|THEA 5583 U    1|Year|0|Jee an Jung|W|1:30 PM - 3:25 PM|PAC|DL|Component
+Theatre and Civic Engagement: Methods of Civic Engagement|THEA 5590 U    1|Year|0|Allen Lang|W|11:05 AM - 1:00 PM|ROTH|CL|Component
+Theatre and Civic Engagement: Curriculum Lab|THEA 5593 U    1|Year|0|Aixa Rosario Medina| |-|ROTH| |Component
+Singing Workshop|THEA 5601 U    1|Year|0|Thomas Mandel| |-| | | 
+Singing Workshop|THEA 5601 U    1|Year|0|William McRee|T|3:35 PM - 5:30 PM|PAC|CANNO|Component
+Tools of the Trade|THEA 5605 U    1|Year|0|Robert Gould|M W|3:35 PM - 5:30 PM|PAC|FVR| 
+Tools of the Trade|THEA 5605 U    1|Year|0|Robert Gould|M W|3:35 PM - 5:30 PM|PAC|SWW|Component
+Directing Workshop|THEA 5609 U    1|Year|0|William McRee|M  R|1:30 PM - 3:25 PM|PAC|OPEN|Component
+Actor's/Director's Lab|THEA 5610 U    1|Fall|0|William McRee|M  R|11:05 AM - 1:00 PM|PAC|OPEN|Component
+Playwriting Techniques|THEA 5614 U    1|Year|0|Stuart Spencer|T|11:05 AM - 1:00 PM|ROTH|CL|Component, section 1
+Playwriting Techniques|THEA 5614 U    2|Year|0|Stuart Spencer|F|11:05 AM - 1:00 PM|ROTH|CL|Component, section 2
+Act One, Scene One: Beginningto Find Yourself:Modern Playwright|THEA 5616 U    1|Year|0|Jonathan Alexandratos|F|1:30 PM - 3:25 PM|PAC|1|Component
+Auditioning|THEA 5620 U    1|Spring|0|William McRee|M|11:00 AM - 1:00 PM|PAC|OPEN|Component
+Playwright's Workshop|THEA 5625 U    1|Year|0|Stuart Spencer|M  R|9:00 AM - 10:55 AM|ROTH|CL|Component,
+Production Management|THEA 5631 U    1|Year|0|Heather Drastal|R|3:35 PM - 5:30 PM|ROTH|CL|Component
+Costume Design I|THEA 5637 U    1|Year|0|Elizabeth Prince|F|11:05 AM - 1:00 PM|PAC|CS|Component, section 1
+Costume Design I|THEA 5637 U    2|Year|0|Elizabeth Prince|F|1:30 PM - 3:25 PM|PAC|CS|Component, section 2
+Costume Design II|THEA 5638 U    1|Year|0|Elizabeth Prince|R|1:30 PM - 3:25 PM|PAC|CS|Component
+Advanced Costume Design Conference|THEA 5639 U    1|Year|0|Elizabeth Prince| |-|PAC|CS|Component
+Puppet Theatre|THEA 5651 U    1|Year|0|Susannah Simons|W|11:05 AM - 1:00 PM|PAC|CANNO|Component
+Solo Performance|THEA 5657 U    1|Year|0|Modesto Jimenez|M  R|9:00 AM - 10:55 AM|PAC|SWW|Component
+Downstage|THEA 5670 U    1|Year|0|Graeme Gillis|T  F|3:35 PM - 5:30 PM|PAC|DNST|Component
+Video and Media Design|THEA 5689 U    1|Year|0|Glenn Potter-Takata|R|1:30 PM - 3:25 PM|PAC|DL|Component
+Singing and Songwriting New Musical Theatre|THEA 5709 U    1|Year|0|Storm Thomas|M|11:05 AM - 1:00 PM|PAC|CANNO|Component, section 1
+Singing and Songwriting New Musical Theatre|THEA 5709 U    2|Year|0|Storm Thomas|M|1:30 PM - 3:25 PM|PAC|CANNO|Component, section 2
+Introduction to Stage Combat|THEA 5716 U    1|Year|0|Sterling Swann|M|11:05 AM - 1:00 PM|PAC|REI|Component, section 1
+Introduction to Stage Combat|THEA 5716 U    2|Year|0|Sterling Swann|M|1:30 PM - 3:25 PM|PAC|REI|Component, section 2
+Historic Survey Formal Aesthetics for Contemporary Performance Prac|THEA 5722 U    1|Year|0|Lisa Clair|F|11:05 AM - 1:00 PM|ROTH|TH|Component
+Acting Shakespeare|THEA 5725 U    1|Year|0|Modesto Jimenez|M  R|11:05 AM - 1:00 PM|PAC|SWW|Component
+Voice Over Acting Technique|THEA 5728 U    1|Fall|0|Lisa Clair|F|10:00 AM - 10:55 AM|PAC|DL|Component
+Voice Over Acting Technique|THEA 5728 U    1|Spring|0|Lisa Clair|F|10:00 AM - 10:55 AM|PAC|DL|Component
+Introduction to Intimacy in Performance|THEA 5732 U    1|Fall|0|Judi Ockler|R|9:00 AM - 10:55 AM|PAC|REI|Component
+History and Histrionics:A Survey of Western Drama|THEA 5734 U    1|Year|0|Stuart Spencer|M  R|11:05 AM - 1:00 PM|ROTH|CL|Component
+Advanced Stage Combat|THEA 5736 U    1|Year|0|Sterling Swann|W|11:05 AM - 1:00 PM|PAC|REI|Component, section 1
+Advanced Stage Combat|THEA 5736 U    2|Year|0|Sterling Swann|W|1:30 PM - 3:25 PM|PAC|REI|Component, section 2
+Far Off, Off-Off, Off &amp; On Broadway|THEA 5738 U    1|Year|0|William McRee|M|3:35 PM - 5:30 PM|PAC|2|Component
+Stage Management|THEA 5745 U    1|Year|0|Heather Drastal|R|1:30 PM - 3:25 PM|ROTH|TH|Component
+The Broadway Musical:Something Great is Coming|THEA 5758 U    1|Year|0|Stuart Spencer|T  F|9:00 AM - 10:55 AM|ROTH|CL|Component
+In Gratitude for the Dream: Theatre &amp; Performance in African Diasporas|THEA 5766 U    1|Year|0|Marcella Murray|W|11:05 AM - 1:00 PM|PAC|DNST|Component
+Directing Actors Seminar|THEA 5767 U    1|Fall|0|Keith Manning|R|11:05 AM - 1:00 PM|HEIM|130|Component
+Theatre and Civic Engagement: Teaching Artist Pedagogy|THEA 5776 U    1|Year|0|Allen Lang|W|9:00 AM - 10:55 AM|ROTH|CL|Component
+Queering Stages w/ Trans/Non-Binary Pages: Advanced Playwrighting|THEA 5783 U    1|Year|0|Jonathan Alexandratos|F|3:35 PM - 5:30 PM|ROTH|TH|Component
+Beyond Proscenium: Radical Acting, Directing, &amp; Design Post-Internet|THEA 5784 U    1|Year|0|Caden Manson|M|1:30 PM - 3:25 PM|PAC|SWW|Component
+FYS: The Short Story: Explorations|WRIT 1026 F    1|Year|10|Carolyn Ferrell|M W|9:30 AM - 10:55 AM|ANDH|104|First Year Studies
+FYS: Poetry: The Human Song|WRIT 1037 F    1|Year|10|Marie Howe|R|4:00 PM - 4:55 PM|ANDH|104|Group collaborative
+FYS: Poetry: The Human Song|WRIT 1037 F    1|Year|10|Marie Howe|T R|9:30 AM - 10:55 AM|ANDH|103|First Year Studies
+FYS: The Literature of Fact: The Nonfiction Essay|WRIT 1064 F    1|Year|10|Nicolaus Mills|T R|9:30 AM - 10:55 AM|TITS|LR|First Year Studies
+FYS:  "Where Was It One First Heard of the Truth?"|WRIT 1067 F    1|Year|10|Viji Seshadri|MT|11:05 AM - 12:30 PM|SLON|SR|First Year Studies
+Children's Literature|WRIT 2021 L    1|Fall|5|Myra Goldberg|F|11:05 AM - 12:30 PM|LIBR|PILLW|Open (Fiction)
+Children's Literature|WRIT 2021 L    1|Fall|5|Myra Goldberg|W|11:05 AM - 12:30 PM|LIBR|E2|Group conference, meets weekly
+Children's Literature|WRIT 2021 L    1|Fall|5|Myra Goldberg|W|1:30 PM - 3:00 PM|WEST|104|Group conference, meets weekly
+The Art of the Short Story|WRIT 2024 L    1|Spring|5|Brian Morton|W|2:00 PM - 3:25 PM|ANDH|104|Group conference, meets weekly
+The Art of the Short Story|WRIT 2024 L    1|Spring|5|Brian Morton|W|11:05 AM - 12:30 PM|ANDH|104|Group conference, meets weekly
+The Art of the Short Story|WRIT 2024 L    1|Spring|5|Brian Morton|T|3:35 PM - 5:00 PM|HEIM|208|Open (Fiction)
+Details Useful to the State:Writers &amp; The Shaping of US Empire|WRIT 2027 L    1|Fall|5|Suzanne Gardinier|R|9:00 AM - 10:55 AM|LIBR|PILLW|Open (Poetry)
+Details Useful to the State:Writers &amp; The Shaping of US Empire|WRIT 2027 L    1|Fall|5|Suzanne Gardinier|R|12:00 PM - 12:55 PM|DL|LR|Group conference, meets weekly
+Details Useful to the State:Writers &amp; The Shaping of US Empire|WRIT 2027 L    1|Fall|5|Suzanne Gardinier|R|2:00 PM - 2:55 PM|DL|LR|Group conference, meets weekly
+Fiction Workshop|WRIT 3303 R    1|Year|10|Melvin Bukiet|W|3:35 PM - 5:30 PM|SHEFF|02|Sophomores &amp; above (Fiction)
+Fiction Workshop|WRIT 3310 R    1|Year|10|April Mosolino|M|3:35 PM - 5:30 PM|SHEFF|01|Open (Fiction)
+Writing and Reading Fiction|WRIT 3312 R    1|Year|10|Brian Morton|M|1:00 PM - 3:25 PM|ANDH|104|Open (Fiction)
+Forms and Fictions|WRIT 3315 R    1|Spring|5|Myra Goldberg|W|11:05 AM - 1:00 PM|ANDH|103|Open (Fiction)
+Episodes|WRIT 3322 R    1|Fall|5|Myra Goldberg|M|11:05 AM - 1:00 PM|ANDH|101|Open (Fiction)
+Fiction Workshop: The Short Story|WRIT 3323 R    1|Year|10|Rattawut Lapcharoensap|M  R|11:05 AM - 12:30 PM|ANDH|103|Open (Fiction)
+Words and Pictures|WRIT 3324 R    1|Spring|5|Myra Goldberg|M|11:05 AM - 1:00 PM|ANDH|101|Open (Fiction)
+Memory and Fiction|WRIT 3328 R    1|Fall|5|Victoria Redel|W|9:00 AM - 10:55 AM|ANDH|101|Intermediate (Fiction)
+The Enemies of Fiction: A Fiction Writing Workshop|WRIT 3330 R    1|Year|10|David Hollander|F|11:05 AM - 1:00 PM|ANDH|103|Open (Fiction)
+The Revolution Will Not Be Televised: Writ/Prod Audio Fiction|WRIT 3351 R    1|Spring|5|Ann Heppermann|R|3:35 PM - 5:30 PM|HEIM|209A| 
+The Revolution Will Not Be Televised: Writ/Prod Audio Fiction|WRIT 3351 R    1|Spring|5|Ann Heppermann|R|3:35 PM - 5:30 PM|HEIM|211|Open (Fiction)
+Fiction Workshop: Asian American Writing|WRIT 3352 R    1|Fall|5|Rattawut Lapcharoensap|M W|3:35 PM - 5:00 PM|ANDH|103|Open (Fiction)
+The Voice|WRIT 3353 R    1|Fall|5|Nelly Reifler|W|1:30 PM - 3:25 PM|ANDH|103|Open (Fiction)
+The Rules--and How to Break Them|WRIT 3356 R    1|Spring|5|Nelly Reifler|W|1:30 PM - 3:25 PM|BATES|206|Open (Fiction)
+Speculative Fiction Workshop|WRIT 3370 R    1|Fall|5|Chandler Smith|M|1:30 PM - 3:25 PM|SLON|2|Open (Fiction)
+Speculative Fiction Workshop|WRIT 3370 R    2|Spring|5|Chandler Smith|M|1:30 PM - 3:25 PM|SLON|2|Open (Fiction)
+Hybrids of Poetry and Prose|WRIT 3505 R    1|Year|10|Jeffrey McDaniel|R|11:05 AM - 1:30 PM|ANDH|101|Open (Poetry)
+Kitchen Sink: A Poetry Writing Workshop|WRIT 3511 R    1|Fall|5|James Hoch|T|11:05 AM - 1:00 PM|SHEFF|01|Open (Poetry)
+Poetry Workshop : The Zuihitsu|WRIT 3545 R    1|Year|10|Suzanne Gardinier|T|9:00 AM - 10:55 AM|ANDH|101|Open (Poetry)
+Poetry Workshop : Bedford Hills|WRIT 3545 R    2|Spring|5|Suzanne Gardinier|R|6:00 PM - 9:00 PM|OFFCM| |Bedford Hills (Poetry)
+Poetry Workshop: On Collecting / Collections|WRIT 3548 A    1|Spring|5|Matthea Harvey|T|11:05 AM - 1:00 PM|SLON|2|Sophomores and above (Poetry)
+Funny Ha-Ha|WRIT 3549 R    1|Fall|5|Jeffrey McDaniel|T|11:05 AM - 1:30 PM|WEST|104|Open (Poetry)
+Contemporary American Poetry|WRIT 3552 R    1|Spring|5|Jeffrey McDaniel|T|11:05 AM - 1:30 PM|TWEED|LR|Open (Poetry)
+Nonfiction Laboratory|WRIT 3702 R    1|Fall|5|Stephen O'Connor|W|3:35 PM - 5:30 PM|SLON|SR|Open (Nonfiction)
+Edgy Memoirs|WRIT 3708 R    1|Fall|5|Mary Morris|M|3:35 PM - 5:30 PM|TWEED|LR|Open (Nonfiction)
+Wrongfully Accused|WRIT 3717 R    1|Year|10|Marek Fuchs|T|3:35 PM - 5:30 PM|ANDH|104|Open (Nonfiction)
+Dream Logic|WRIT 3718 R    1|Spring|5|Stephen O'Connor|W|3:35 PM - 5:30 PM|SLON|2|Open (Nonfiction)
+A Question of Character: The Art of the Profile|WRIT 3728 R    1|Spring|5|Alice Truax|R|3:35 PM - 5:30 PM|SLON|SR|Open (Nonfiction)
+Workshop in Personal Essay|WRIT 3739 R    1|Spring|5|Jacob Slichter|W|3:35 PM - 5:30 PM|SLON|SR|Open (Nonfiction)
+Narrative Podcasting and Production|WRIT 3752 R    1|Fall|5|Ann Heppermann|R|3:35 PM - 5:30 PM|HEIM|211|Open (Nonfiction)
+Narrative Podcasting and Production|WRIT 3752 R    1|Fall|5|Ann Heppermann|R|3:35 PM - 5:30 PM|HEIM|209A| 
+Writing Environments|WRIT 3755 R    1|Year|10|Kate Zambreno|W|1:30 PM - 3:25 PM|SLON|SR|Open (Nonfiction)
+Creative Nonfiction Writing|WRIT 3761 R    1|Fall|5|Jo Ann Beard|W|9:00 AM - 10:55 AM|WREX|LIB|Interm/Adv (Nonfiction)
+Reading and Writing Personal Essays|WRIT 3763 R    1|Fall|5|Clifford Thompson|W|11:05 AM - 1:00 PM|ANDH|103|Open (Nonfiction)
+Nonfiction Workshop: The World and You|WRIT 3767 R    1|Spring|5|Clifford Thompson|W|11:05 AM - 1:00 PM|SLON|SR|Open (Nonfiction)
+Nonfiction Workshop: Writing the Reflective Essay|WRIT 3771 R    1|Fall|5|Brian Morton|T|3:35 PM - 6:00 PM|ANDH|101|Open (Nonfiction)

@@ -1,15 +1,23 @@
+//Kian Silva Data Structures and Algorithms
+//Creates time object to be used in the component class
+
 public class Time{
     public int first;
     public int last;
 
     public Time(String t) {
         String[] split = t.split("-");
-
+        if (split.length < 2) {
+            first = 0;
+            last = 0;
+            return;
+        }
         first = convert(split[0]);
         last = convert(split[1]);
         
     }
 
+    //converts the time formating to military time
     public int convert(String time) {
         String[] parts = time.trim().split(":|\\s+");
 
@@ -35,10 +43,12 @@ public class Time{
         return hour * 100 + minute;
     }
 
+    //toString method for the time
     public String toString() {
         return convertToString(first) + " - " + convertToString(last);
     }
 
+    //Converts the time to a string
     public static String convertToString(int time) {
         int hour = time / 100;
         int minute = time % 100;
@@ -53,5 +63,18 @@ public class Time{
         return String.format("%02d:%02d %s", hour, minute, period);
     }
 
+    //checks the conflict of the times
+    public boolean conflict(Time other) {
+        if (this.last < other.first || this.first > other.last) {
+            return false; // No overlap
+        }
+        return true; // Overlap
+    }
+    //comparison of times
+    public int compareTo(Time other){
+        if (this.first < other.first) return -1;
+        if (this.first > other.first) return 1;
+        return 0;
+    }
 }
 

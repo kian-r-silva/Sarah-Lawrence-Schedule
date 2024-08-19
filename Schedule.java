@@ -21,7 +21,7 @@ public class Schedule {
     }
 
     //Builds the HashMap of Courses Ordered by Title as the Key, the value is an ArrayList of CourseBlocks
-    private void buildCourseList(String filename) throws IOException{
+    void buildCourseList(String filename) throws IOException{
         CourseList = new ArrayList<>(); // Initialize CourseList ArrayList
         Scanner catalogue = new Scanner(new File(filename));
         catalogue.nextLine(); //Skip the header line with the field order        
@@ -44,8 +44,7 @@ public class Schedule {
                 courses.add(CourseList.get(i));
                 CourseListing.put(CourseList.get(i).title, courses);
             }
-        } 
-        
+        }         
     }
 
     //Retrieves all courses based on a search term, where the search term can be CourseTitle, professor, or course code

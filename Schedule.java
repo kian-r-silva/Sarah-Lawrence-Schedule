@@ -87,7 +87,8 @@ public class Schedule {
             System.out.println("Course already in Course Schedule. Select another Course.");
             return;
         }
-       List<CourseBlock> conflictingCourses = conflictCheck(course);
+
+        List<CourseBlock> conflictingCourses = conflictCheck(course);
 
         if (conflictingCourses.isEmpty()) {
             curSchedule.add(course);
@@ -120,7 +121,7 @@ public class Schedule {
         if (curSchedule.isEmpty()) {
             return conflictingCourses;
         }
-
+                
         for (CourseBlock addingCourse : course) {
             for (ArrayList<CourseBlock> curCourse : curSchedule) {
                 for (CourseBlock existingCourse : curCourse) {
@@ -145,10 +146,12 @@ public class Schedule {
             if(comType(cb).equals("lab")){ lb++; groupOrLabAvailable = true;}
         }
 
-        ArrayList<CourseBlock> confCour = CourseListing.get(conflictingCourses.get(0).title);
-        for (CourseBlock cb : confCour) {
-            if(comType(cb).equals("gc")){ gc++; groupOrLabAvailable = true;}
-            if(comType(cb).equals("lab")){ lb++; groupOrLabAvailable = true;
+        if (!conflictingCourses.isEmpty()){
+            ArrayList<CourseBlock> confCour = CourseListing.get(conflictingCourses.get(0).title);
+            for (CourseBlock cb : confCour) {
+                if(comType(cb).equals("gc")){ gc++; groupOrLabAvailable = true;}
+                if(comType(cb).equals("lab")){ lb++; groupOrLabAvailable = true;
+                }
             }
         }
 
@@ -329,7 +332,7 @@ public class Schedule {
     }
     
     //builds the schedule when user selects option 5, view schedule
-    public static void buildSchedule(){
+    public static ArrayList<ArrayList<CourseBlock>> buildSchedule(){
         ArrayList<CourseBlock> Monday = new ArrayList<CourseBlock>();
         ArrayList<CourseBlock> Tuesday = new ArrayList<CourseBlock>();
         ArrayList<CourseBlock> Wednesday = new ArrayList<CourseBlock>();
@@ -363,35 +366,16 @@ public class Schedule {
         Wednesday.sort((a,b)->a.comp.time.compareTo(b.comp.time));
         Thursday.sort((a,b)->a.comp.time.compareTo(b.comp.time));
         Friday.sort((a,b)->a.comp.time.compareTo(b.comp.time));
-        
-        System.out.println("Monday: ");
-        for(CourseBlock meet: Monday){
-            System.out.printf("%s %s ;%s ;%s ;%s %s; %s\n", meet.title, meet.code, meet.prof, meet.comp.time.toString(), meet.comp.buildingCode, meet.comp.room, meet.comp.comments);
-        }
-        System.out.println();
-        System.out.println("Tuesday: ");
-        for(CourseBlock meet: Tuesday){
-            System.out.printf("%s %s ;%s ;%s ;%s %s; %s\n", meet.title, meet.code, meet.prof, meet.comp.time.toString(), meet.comp.buildingCode, meet.comp.room, meet.comp.comments);
-        }
-        System.out.println();
-        System.out.println("Wednesday: ");
-        for(CourseBlock meet: Wednesday){
-            System.out.printf("%s %s ;%s ;%s ;%s %s; %s\n", meet.title, meet.code, meet.prof, meet.comp.time.toString(), meet.comp.buildingCode, meet.comp.room, meet.comp.comments);
-        }
-        System.out.println();
-        System.out.println("Thursday: ");
-        for(CourseBlock meet: Thursday){
-            System.out.printf("%s %s ;%s ;%s ;%s %s; %s\n", meet.title, meet.code, meet.prof, meet.comp.time.toString(), meet.comp.buildingCode, meet.comp.room, meet.comp.comments);
-        }
-        System.out.println();
-        System.out.println("Friday: ");
-        for(CourseBlock meet: Friday){
-            System.out.printf("%s %s ;%s ;%s ;%s %s; %s\n", meet.title, meet.code, meet.prof, meet.comp.time.toString(), meet.comp.buildingCode, meet.comp.room, meet.comp.comments);
-        }
-        System.out.println();
-        System.out.println("Need to Schedule the following your professor: ");
-        for(CourseBlock meet: needSched){
-            System.out.printf("%s %s ;%s ;%s ;%s %s; %s\n", meet.title, meet.code, meet.prof, meet.comp.time.toString(), meet.comp.buildingCode, meet.comp.room, meet.comp.comments);
-        }
+        needSched.sort((a,b)->a.comp.time.compareTo(b.comp.time));
+
+        ArrayList<ArrayList<CourseBlock>> week = new ArrayList<>();
+        week.add(Monday);
+        week.add(Tuesday);
+        week.add(Wednesday);
+        week.add(Thursday);
+        week.add(Friday);
+        week.add(needSched);
+
+        return week;
     }
 }

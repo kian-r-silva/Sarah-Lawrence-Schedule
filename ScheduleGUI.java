@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
 import java.util.*;
 
 public class ScheduleGUI extends JFrame {
@@ -125,7 +124,7 @@ public class ScheduleGUI extends JFrame {
     private void addCourse() {
         String courseInput = inputField.getText().trim();
         ArrayList<ArrayList<CourseBlock>> found = Schedule.searchCourse(courseInput);
-
+        System.out.println(found);
         if (found.size() == 1) {
             Schedule.addCourse(found.get(0));
             outputArea.setText(found.get(0).get(0).title + " added to schedule.\n");
@@ -145,15 +144,27 @@ public class ScheduleGUI extends JFrame {
     }
 
     private void removeCourse() {
-        String courseToRemove = inputField.getText().trim();
-        Schedule.removeCourse(courseToRemove);
-        outputArea.setText(courseToRemove + " removed from schedule.\n");
+        if (Schedule.curSchedule.isEmpty()){
+            outputArea.setText("No courses in schedule.\n");
+        }
+        else {
+            String courseToRemove = inputField.getText().trim();
+            Schedule.removeCourse(courseToRemove);
+            outputArea.setText(courseToRemove + " removed from schedule.\n");
+        }
     }
 
     private void viewSchedule() {
         outputArea.setText(""); // Clear output area
-        Schedule.buildSchedule();
-        outputArea.setText("Schedule displayed in the terminal.\n");
+        ArrayList<ArrayList<CourseBlock>> week = new ArrayList<ArrayList<CourseBlock>>(Schedule.buildSchedule());
+        String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Need to Schedule With Professor"}; 
+        for (int i = 0; i < week.size(); i++){
+            outputArea.append(days[i] + ":\n");
+            for (CourseBlock block : week.get(i)) {
+                outputArea.append(String.format("%s %s ;%s ;%s ;%s %s; %s\n", block.title, block.code, block.prof, block.comp.time.toString(), block.comp.buildingCode, block.comp.room, block.comp.comments));
+            }
+            outputArea.append("\n"); // Add a blank line between days
+        }
     }
 
     private void clearSchedule() {

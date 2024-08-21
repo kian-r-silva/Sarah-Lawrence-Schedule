@@ -8,4 +8,6 @@ I started by extracting course data from the mySLC course catalog and processing
 
 The program's core functionality includes searching for courses, adding and removing courses from a schedule, and checking for conflicts between courses. The conflictCheck method ensures that a student's schedule is free of conflicts by comparing course meeting times, days, and other relevant factors. While the system works well for the majority of cases, I acknowledge that it may not handle every possible scenario perfectly.
 
-Although the project successfully achieved its goals, I would have liked to develop a graphical user interface (GUI) to enhance the user experience and visually display the constructed schedule. Nevertheless, this project allowed me to apply the concepts learned in my Data Structures and Algorithms course, resulting in a more efficient and organized course scheduling system.
+To enhance the user experience and provide a visual representation of the constructed schedule, I developed a very rough graphical user interface (GUI) in Java. The GUI was designed primarily as a simple means of displaying the schedule, making it easier to interact with than a terminal interface.
+
+Ultimately, the school recognized the value of the algorithm and decided to take it on, modifying it to better fit their specific needs. This project allowed me to apply the concepts learned in my Data Structures and Algorithms course, resulting in a more efficient and organized course scheduling system.
